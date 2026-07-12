@@ -1,0 +1,26 @@
+{
+  "vector_counts": {
+    "faiss": 500,
+    "milvus": 500,
+    "pinecone": 500
+  },
+  "cluster_stats": {
+    "faiss": {
+      "vectors": 500,
+      "type": "IVFPQ"
+    },
+    "milvus": {
+      "collection": "financial_documents",
+      "vector_count": 500,
+      "embedding_dim": 384,
+      "mode": "lite",
+      "connected": true
+    },
+    "pinecone": {
+      "index_name": "financial-audit-index",
+      "vector_count": 500,
+      "mode": "mock"
+    }
+  },
+  "demo_query": "compliance audit unusual transaction pattern"
+}
