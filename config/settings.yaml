@@ -1,0 +1,65 @@
+project:
+  name: "Sovereign Financial Auditing & Risk Analytics Engine"
+  version: "1.0.0"
+
+paths:
+  data_raw: "data/raw"
+  data_processed: "data/processed"
+  data_sample: "data/sample"
+  models: "models"
+  logs: "logs"
+  vector_indices: "vector_indices"
+  output: "output"
+
+data:
+  currencies: ["USD", "EUR", "GBP", "JPY", "CHF"]
+  ledger_rows: 5000
+  document_count: 500
+  sequence_length: 60
+  feature_dim: 12
+  grid_height: 8
+  grid_width: 8
+
+training:
+  batch_size: 32
+  epochs: 10
+  pipeline_epochs: 3
+  learning_rate: 0.001
+  train_split: 0.8
+  random_seed: 42
+
+pytorch:
+  cnn_channels: [16, 32, 64]
+  lstm_hidden: 128
+  lstm_layers: 2
+  transformer_d_model: 64
+  transformer_nhead: 4
+  transformer_layers: 3
+
+tensorflow:
+  dense_units: [128, 64, 32]
+  dropout: 0.3
+
+vector_search:
+  embedding_dim: 384
+  faiss:
+    nlist: 32
+    m_pq: 8
+    nbits: 8
+    nprobe: 16
+  milvus:
+    collection_name: "financial_documents"
+    host: "localhost"
+    port: 19530
+    use_lite: true
+    lite_db: "vector_indices/milvus_lite.db"
+  pinecone:
+    index_name: "financial-audit-index"
+    metric: "cosine"
+    cloud: "aws"
+    region: "us-east-1"
+    use_mock: true
+
+risk:
+  anomaly_threshold: 0.75
+  volatility_window: 20

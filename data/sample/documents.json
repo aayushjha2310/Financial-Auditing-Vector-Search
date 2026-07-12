@@ -1,0 +1,3502 @@
+[
+  {
+    "document_id": "DOC-00000",
+    "title": "Financial Document 1",
+    "category": "compliance",
+    "text": "Quarterly treasury report for JPY exposure showing 475.4 million in net position.",
+    "created_at": "2024-01-01T00:00:00"
+  },
+  {
+    "document_id": "DOC-00001",
+    "title": "Financial Document 2",
+    "category": "treasury",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0044 during Q2 2024.",
+    "created_at": "2024-01-02T00:00:00"
+  },
+  {
+    "document_id": "DOC-00002",
+    "title": "Financial Document 3",
+    "category": "risk",
+    "text": "Risk assessment memo: FX hedging strategy review for JPY portfolio segment 3.",
+    "created_at": "2024-01-03T00:00:00"
+  },
+  {
+    "document_id": "DOC-00003",
+    "title": "Financial Document 4",
+    "category": "audit",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 2.",
+    "created_at": "2024-01-04T00:00:00"
+  },
+  {
+    "document_id": "DOC-00004",
+    "title": "Financial Document 5",
+    "category": "regulatory",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2024-01-05T00:00:00"
+  },
+  {
+    "document_id": "DOC-00005",
+    "title": "Financial Document 6",
+    "category": "compliance",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-016 rated BBB.",
+    "created_at": "2024-01-06T00:00:00"
+  },
+  {
+    "document_id": "DOC-00006",
+    "title": "Financial Document 7",
+    "category": "treasury",
+    "text": "Multi-currency reconciliation report: variance of 1.55% identified in CHF ledger.",
+    "created_at": "2024-01-07T00:00:00"
+  },
+  {
+    "document_id": "DOC-00007",
+    "title": "Financial Document 8",
+    "category": "risk",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-6892.",
+    "created_at": "2024-01-08T00:00:00"
+  },
+  {
+    "document_id": "DOC-00008",
+    "title": "Financial Document 9",
+    "category": "audit",
+    "text": "Quarterly treasury report for EUR exposure showing 179.9 million in net position.",
+    "created_at": "2024-01-09T00:00:00"
+  },
+  {
+    "document_id": "DOC-00009",
+    "title": "Financial Document 10",
+    "category": "regulatory",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0037 during Q3 2024.",
+    "created_at": "2024-01-10T00:00:00"
+  },
+  {
+    "document_id": "DOC-00010",
+    "title": "Financial Document 11",
+    "category": "compliance",
+    "text": "Risk assessment memo: FX hedging strategy review for EUR portfolio segment 7.",
+    "created_at": "2024-01-11T00:00:00"
+  },
+  {
+    "document_id": "DOC-00011",
+    "title": "Financial Document 12",
+    "category": "treasury",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 2.",
+    "created_at": "2024-01-12T00:00:00"
+  },
+  {
+    "document_id": "DOC-00012",
+    "title": "Financial Document 13",
+    "category": "risk",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q1 2024.",
+    "created_at": "2024-01-13T00:00:00"
+  },
+  {
+    "document_id": "DOC-00013",
+    "title": "Financial Document 14",
+    "category": "audit",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-009 rated BB.",
+    "created_at": "2024-01-14T00:00:00"
+  },
+  {
+    "document_id": "DOC-00014",
+    "title": "Financial Document 15",
+    "category": "regulatory",
+    "text": "Multi-currency reconciliation report: variance of 4.82% identified in GBP ledger.",
+    "created_at": "2024-01-15T00:00:00"
+  },
+  {
+    "document_id": "DOC-00015",
+    "title": "Financial Document 16",
+    "category": "compliance",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-1854.",
+    "created_at": "2024-01-16T00:00:00"
+  },
+  {
+    "document_id": "DOC-00016",
+    "title": "Financial Document 17",
+    "category": "treasury",
+    "text": "Quarterly treasury report for CHF exposure showing 173.2 million in net position.",
+    "created_at": "2024-01-17T00:00:00"
+  },
+  {
+    "document_id": "DOC-00017",
+    "title": "Financial Document 18",
+    "category": "risk",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0024 during Q1 2024.",
+    "created_at": "2024-01-18T00:00:00"
+  },
+  {
+    "document_id": "DOC-00018",
+    "title": "Financial Document 19",
+    "category": "audit",
+    "text": "Risk assessment memo: FX hedging strategy review for CHF portfolio segment 3.",
+    "created_at": "2024-01-19T00:00:00"
+  },
+  {
+    "document_id": "DOC-00019",
+    "title": "Financial Document 20",
+    "category": "regulatory",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 2.",
+    "created_at": "2024-01-20T00:00:00"
+  },
+  {
+    "document_id": "DOC-00020",
+    "title": "Financial Document 21",
+    "category": "compliance",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2024-01-21T00:00:00"
+  },
+  {
+    "document_id": "DOC-00021",
+    "title": "Financial Document 22",
+    "category": "treasury",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-001 rated BBB.",
+    "created_at": "2024-01-22T00:00:00"
+  },
+  {
+    "document_id": "DOC-00022",
+    "title": "Financial Document 23",
+    "category": "risk",
+    "text": "Multi-currency reconciliation report: variance of 2.48% identified in JPY ledger.",
+    "created_at": "2024-01-23T00:00:00"
+  },
+  {
+    "document_id": "DOC-00023",
+    "title": "Financial Document 24",
+    "category": "audit",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-5555.",
+    "created_at": "2024-01-24T00:00:00"
+  },
+  {
+    "document_id": "DOC-00024",
+    "title": "Financial Document 25",
+    "category": "regulatory",
+    "text": "Quarterly treasury report for GBP exposure showing 184.5 million in net position.",
+    "created_at": "2024-01-25T00:00:00"
+  },
+  {
+    "document_id": "DOC-00025",
+    "title": "Financial Document 26",
+    "category": "compliance",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0033 during Q1 2024.",
+    "created_at": "2024-01-26T00:00:00"
+  },
+  {
+    "document_id": "DOC-00026",
+    "title": "Financial Document 27",
+    "category": "treasury",
+    "text": "Risk assessment memo: FX hedging strategy review for CHF portfolio segment 9.",
+    "created_at": "2024-01-27T00:00:00"
+  },
+  {
+    "document_id": "DOC-00027",
+    "title": "Financial Document 28",
+    "category": "risk",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 4.",
+    "created_at": "2024-01-28T00:00:00"
+  },
+  {
+    "document_id": "DOC-00028",
+    "title": "Financial Document 29",
+    "category": "audit",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2024-01-29T00:00:00"
+  },
+  {
+    "document_id": "DOC-00029",
+    "title": "Financial Document 30",
+    "category": "regulatory",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-018 rated AAA.",
+    "created_at": "2024-01-30T00:00:00"
+  },
+  {
+    "document_id": "DOC-00030",
+    "title": "Financial Document 31",
+    "category": "compliance",
+    "text": "Multi-currency reconciliation report: variance of 4.44% identified in EUR ledger.",
+    "created_at": "2024-01-31T00:00:00"
+  },
+  {
+    "document_id": "DOC-00031",
+    "title": "Financial Document 32",
+    "category": "treasury",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-4124.",
+    "created_at": "2024-02-01T00:00:00"
+  },
+  {
+    "document_id": "DOC-00032",
+    "title": "Financial Document 33",
+    "category": "risk",
+    "text": "Quarterly treasury report for JPY exposure showing 108.7 million in net position.",
+    "created_at": "2024-02-02T00:00:00"
+  },
+  {
+    "document_id": "DOC-00033",
+    "title": "Financial Document 34",
+    "category": "audit",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0042 during Q2 2024.",
+    "created_at": "2024-02-03T00:00:00"
+  },
+  {
+    "document_id": "DOC-00034",
+    "title": "Financial Document 35",
+    "category": "regulatory",
+    "text": "Risk assessment memo: FX hedging strategy review for EUR portfolio segment 9.",
+    "created_at": "2024-02-04T00:00:00"
+  },
+  {
+    "document_id": "DOC-00035",
+    "title": "Financial Document 36",
+    "category": "compliance",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 4.",
+    "created_at": "2024-02-05T00:00:00"
+  },
+  {
+    "document_id": "DOC-00036",
+    "title": "Financial Document 37",
+    "category": "treasury",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2024-02-06T00:00:00"
+  },
+  {
+    "document_id": "DOC-00037",
+    "title": "Financial Document 38",
+    "category": "risk",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-010 rated BB.",
+    "created_at": "2024-02-07T00:00:00"
+  },
+  {
+    "document_id": "DOC-00038",
+    "title": "Financial Document 39",
+    "category": "audit",
+    "text": "Multi-currency reconciliation report: variance of 0.23% identified in EUR ledger.",
+    "created_at": "2024-02-08T00:00:00"
+  },
+  {
+    "document_id": "DOC-00039",
+    "title": "Financial Document 40",
+    "category": "regulatory",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-6732.",
+    "created_at": "2024-02-09T00:00:00"
+  },
+  {
+    "document_id": "DOC-00040",
+    "title": "Financial Document 41",
+    "category": "compliance",
+    "text": "Quarterly treasury report for JPY exposure showing 193.7 million in net position.",
+    "created_at": "2024-02-10T00:00:00"
+  },
+  {
+    "document_id": "DOC-00041",
+    "title": "Financial Document 42",
+    "category": "treasury",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0026 during Q2 2024.",
+    "created_at": "2024-02-11T00:00:00"
+  },
+  {
+    "document_id": "DOC-00042",
+    "title": "Financial Document 43",
+    "category": "risk",
+    "text": "Risk assessment memo: FX hedging strategy review for CHF portfolio segment 5.",
+    "created_at": "2024-02-12T00:00:00"
+  },
+  {
+    "document_id": "DOC-00043",
+    "title": "Financial Document 44",
+    "category": "audit",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 3.",
+    "created_at": "2024-02-13T00:00:00"
+  },
+  {
+    "document_id": "DOC-00044",
+    "title": "Financial Document 45",
+    "category": "regulatory",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q1 2024.",
+    "created_at": "2024-02-14T00:00:00"
+  },
+  {
+    "document_id": "DOC-00045",
+    "title": "Financial Document 46",
+    "category": "compliance",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-019 rated AA.",
+    "created_at": "2024-02-15T00:00:00"
+  },
+  {
+    "document_id": "DOC-00046",
+    "title": "Financial Document 47",
+    "category": "treasury",
+    "text": "Multi-currency reconciliation report: variance of 0.66% identified in CHF ledger.",
+    "created_at": "2024-02-16T00:00:00"
+  },
+  {
+    "document_id": "DOC-00047",
+    "title": "Financial Document 48",
+    "category": "risk",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-7731.",
+    "created_at": "2024-02-17T00:00:00"
+  },
+  {
+    "document_id": "DOC-00048",
+    "title": "Financial Document 49",
+    "category": "audit",
+    "text": "Quarterly treasury report for USD exposure showing 381.0 million in net position.",
+    "created_at": "2024-02-18T00:00:00"
+  },
+  {
+    "document_id": "DOC-00049",
+    "title": "Financial Document 50",
+    "category": "regulatory",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0029 during Q1 2024.",
+    "created_at": "2024-02-19T00:00:00"
+  },
+  {
+    "document_id": "DOC-00050",
+    "title": "Financial Document 51",
+    "category": "compliance",
+    "text": "Risk assessment memo: FX hedging strategy review for USD portfolio segment 3.",
+    "created_at": "2024-02-20T00:00:00"
+  },
+  {
+    "document_id": "DOC-00051",
+    "title": "Financial Document 52",
+    "category": "treasury",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 3.",
+    "created_at": "2024-02-21T00:00:00"
+  },
+  {
+    "document_id": "DOC-00052",
+    "title": "Financial Document 53",
+    "category": "risk",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2024-02-22T00:00:00"
+  },
+  {
+    "document_id": "DOC-00053",
+    "title": "Financial Document 54",
+    "category": "audit",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-019 rated BBB.",
+    "created_at": "2024-02-23T00:00:00"
+  },
+  {
+    "document_id": "DOC-00054",
+    "title": "Financial Document 55",
+    "category": "regulatory",
+    "text": "Multi-currency reconciliation report: variance of 4.58% identified in USD ledger.",
+    "created_at": "2024-02-24T00:00:00"
+  },
+  {
+    "document_id": "DOC-00055",
+    "title": "Financial Document 56",
+    "category": "compliance",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-5835.",
+    "created_at": "2024-02-25T00:00:00"
+  },
+  {
+    "document_id": "DOC-00056",
+    "title": "Financial Document 57",
+    "category": "treasury",
+    "text": "Quarterly treasury report for GBP exposure showing 349.4 million in net position.",
+    "created_at": "2024-02-26T00:00:00"
+  },
+  {
+    "document_id": "DOC-00057",
+    "title": "Financial Document 58",
+    "category": "risk",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0005 during Q3 2024.",
+    "created_at": "2024-02-27T00:00:00"
+  },
+  {
+    "document_id": "DOC-00058",
+    "title": "Financial Document 59",
+    "category": "audit",
+    "text": "Risk assessment memo: FX hedging strategy review for USD portfolio segment 1.",
+    "created_at": "2024-02-28T00:00:00"
+  },
+  {
+    "document_id": "DOC-00059",
+    "title": "Financial Document 60",
+    "category": "regulatory",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 3.",
+    "created_at": "2024-02-29T00:00:00"
+  },
+  {
+    "document_id": "DOC-00060",
+    "title": "Financial Document 61",
+    "category": "compliance",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2024-03-01T00:00:00"
+  },
+  {
+    "document_id": "DOC-00061",
+    "title": "Financial Document 62",
+    "category": "treasury",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-002 rated A.",
+    "created_at": "2024-03-02T00:00:00"
+  },
+  {
+    "document_id": "DOC-00062",
+    "title": "Financial Document 63",
+    "category": "risk",
+    "text": "Multi-currency reconciliation report: variance of 3.14% identified in USD ledger.",
+    "created_at": "2024-03-03T00:00:00"
+  },
+  {
+    "document_id": "DOC-00063",
+    "title": "Financial Document 64",
+    "category": "audit",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-2331.",
+    "created_at": "2024-03-04T00:00:00"
+  },
+  {
+    "document_id": "DOC-00064",
+    "title": "Financial Document 65",
+    "category": "regulatory",
+    "text": "Quarterly treasury report for USD exposure showing 257.5 million in net position.",
+    "created_at": "2024-03-05T00:00:00"
+  },
+  {
+    "document_id": "DOC-00065",
+    "title": "Financial Document 66",
+    "category": "compliance",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0020 during Q1 2024.",
+    "created_at": "2024-03-06T00:00:00"
+  },
+  {
+    "document_id": "DOC-00066",
+    "title": "Financial Document 67",
+    "category": "treasury",
+    "text": "Risk assessment memo: FX hedging strategy review for USD portfolio segment 6.",
+    "created_at": "2024-03-07T00:00:00"
+  },
+  {
+    "document_id": "DOC-00067",
+    "title": "Financial Document 68",
+    "category": "risk",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 2.",
+    "created_at": "2024-03-08T00:00:00"
+  },
+  {
+    "document_id": "DOC-00068",
+    "title": "Financial Document 69",
+    "category": "audit",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q1 2024.",
+    "created_at": "2024-03-09T00:00:00"
+  },
+  {
+    "document_id": "DOC-00069",
+    "title": "Financial Document 70",
+    "category": "regulatory",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-003 rated BB.",
+    "created_at": "2024-03-10T00:00:00"
+  },
+  {
+    "document_id": "DOC-00070",
+    "title": "Financial Document 71",
+    "category": "compliance",
+    "text": "Multi-currency reconciliation report: variance of 2.71% identified in EUR ledger.",
+    "created_at": "2024-03-11T00:00:00"
+  },
+  {
+    "document_id": "DOC-00071",
+    "title": "Financial Document 72",
+    "category": "treasury",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-7229.",
+    "created_at": "2024-03-12T00:00:00"
+  },
+  {
+    "document_id": "DOC-00072",
+    "title": "Financial Document 73",
+    "category": "risk",
+    "text": "Quarterly treasury report for EUR exposure showing 268.1 million in net position.",
+    "created_at": "2024-03-13T00:00:00"
+  },
+  {
+    "document_id": "DOC-00073",
+    "title": "Financial Document 74",
+    "category": "audit",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0040 during Q1 2024.",
+    "created_at": "2024-03-14T00:00:00"
+  },
+  {
+    "document_id": "DOC-00074",
+    "title": "Financial Document 75",
+    "category": "regulatory",
+    "text": "Risk assessment memo: FX hedging strategy review for GBP portfolio segment 5.",
+    "created_at": "2024-03-15T00:00:00"
+  },
+  {
+    "document_id": "DOC-00075",
+    "title": "Financial Document 76",
+    "category": "compliance",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 4.",
+    "created_at": "2024-03-16T00:00:00"
+  },
+  {
+    "document_id": "DOC-00076",
+    "title": "Financial Document 77",
+    "category": "treasury",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q3 2024.",
+    "created_at": "2024-03-17T00:00:00"
+  },
+  {
+    "document_id": "DOC-00077",
+    "title": "Financial Document 78",
+    "category": "risk",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-001 rated AA.",
+    "created_at": "2024-03-18T00:00:00"
+  },
+  {
+    "document_id": "DOC-00078",
+    "title": "Financial Document 79",
+    "category": "audit",
+    "text": "Multi-currency reconciliation report: variance of 2.79% identified in GBP ledger.",
+    "created_at": "2024-03-19T00:00:00"
+  },
+  {
+    "document_id": "DOC-00079",
+    "title": "Financial Document 80",
+    "category": "regulatory",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-4490.",
+    "created_at": "2024-03-20T00:00:00"
+  },
+  {
+    "document_id": "DOC-00080",
+    "title": "Financial Document 81",
+    "category": "compliance",
+    "text": "Quarterly treasury report for USD exposure showing 425.5 million in net position.",
+    "created_at": "2024-03-21T00:00:00"
+  },
+  {
+    "document_id": "DOC-00081",
+    "title": "Financial Document 82",
+    "category": "treasury",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0008 during Q3 2024.",
+    "created_at": "2024-03-22T00:00:00"
+  },
+  {
+    "document_id": "DOC-00082",
+    "title": "Financial Document 83",
+    "category": "risk",
+    "text": "Risk assessment memo: FX hedging strategy review for GBP portfolio segment 9.",
+    "created_at": "2024-03-23T00:00:00"
+  },
+  {
+    "document_id": "DOC-00083",
+    "title": "Financial Document 84",
+    "category": "audit",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 2.",
+    "created_at": "2024-03-24T00:00:00"
+  },
+  {
+    "document_id": "DOC-00084",
+    "title": "Financial Document 85",
+    "category": "regulatory",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q3 2024.",
+    "created_at": "2024-03-25T00:00:00"
+  },
+  {
+    "document_id": "DOC-00085",
+    "title": "Financial Document 86",
+    "category": "compliance",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-001 rated BBB.",
+    "created_at": "2024-03-26T00:00:00"
+  },
+  {
+    "document_id": "DOC-00086",
+    "title": "Financial Document 87",
+    "category": "treasury",
+    "text": "Multi-currency reconciliation report: variance of 2.48% identified in GBP ledger.",
+    "created_at": "2024-03-27T00:00:00"
+  },
+  {
+    "document_id": "DOC-00087",
+    "title": "Financial Document 88",
+    "category": "risk",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-7166.",
+    "created_at": "2024-03-28T00:00:00"
+  },
+  {
+    "document_id": "DOC-00088",
+    "title": "Financial Document 89",
+    "category": "audit",
+    "text": "Quarterly treasury report for EUR exposure showing 473.7 million in net position.",
+    "created_at": "2024-03-29T00:00:00"
+  },
+  {
+    "document_id": "DOC-00089",
+    "title": "Financial Document 90",
+    "category": "regulatory",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0005 during Q1 2024.",
+    "created_at": "2024-03-30T00:00:00"
+  },
+  {
+    "document_id": "DOC-00090",
+    "title": "Financial Document 91",
+    "category": "compliance",
+    "text": "Risk assessment memo: FX hedging strategy review for GBP portfolio segment 6.",
+    "created_at": "2024-03-31T00:00:00"
+  },
+  {
+    "document_id": "DOC-00091",
+    "title": "Financial Document 92",
+    "category": "treasury",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 3.",
+    "created_at": "2024-04-01T00:00:00"
+  },
+  {
+    "document_id": "DOC-00092",
+    "title": "Financial Document 93",
+    "category": "risk",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q1 2024.",
+    "created_at": "2024-04-02T00:00:00"
+  },
+  {
+    "document_id": "DOC-00093",
+    "title": "Financial Document 94",
+    "category": "audit",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-007 rated BBB.",
+    "created_at": "2024-04-03T00:00:00"
+  },
+  {
+    "document_id": "DOC-00094",
+    "title": "Financial Document 95",
+    "category": "regulatory",
+    "text": "Multi-currency reconciliation report: variance of 4.81% identified in USD ledger.",
+    "created_at": "2024-04-04T00:00:00"
+  },
+  {
+    "document_id": "DOC-00095",
+    "title": "Financial Document 96",
+    "category": "compliance",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-3482.",
+    "created_at": "2024-04-05T00:00:00"
+  },
+  {
+    "document_id": "DOC-00096",
+    "title": "Financial Document 97",
+    "category": "treasury",
+    "text": "Quarterly treasury report for GBP exposure showing 400.1 million in net position.",
+    "created_at": "2024-04-06T00:00:00"
+  },
+  {
+    "document_id": "DOC-00097",
+    "title": "Financial Document 98",
+    "category": "risk",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0028 during Q1 2024.",
+    "created_at": "2024-04-07T00:00:00"
+  },
+  {
+    "document_id": "DOC-00098",
+    "title": "Financial Document 99",
+    "category": "audit",
+    "text": "Risk assessment memo: FX hedging strategy review for GBP portfolio segment 2.",
+    "created_at": "2024-04-08T00:00:00"
+  },
+  {
+    "document_id": "DOC-00099",
+    "title": "Financial Document 100",
+    "category": "regulatory",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 3.",
+    "created_at": "2024-04-09T00:00:00"
+  },
+  {
+    "document_id": "DOC-00100",
+    "title": "Financial Document 101",
+    "category": "compliance",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q3 2024.",
+    "created_at": "2024-04-10T00:00:00"
+  },
+  {
+    "document_id": "DOC-00101",
+    "title": "Financial Document 102",
+    "category": "treasury",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-016 rated BB.",
+    "created_at": "2024-04-11T00:00:00"
+  },
+  {
+    "document_id": "DOC-00102",
+    "title": "Financial Document 103",
+    "category": "risk",
+    "text": "Multi-currency reconciliation report: variance of 1.88% identified in JPY ledger.",
+    "created_at": "2024-04-12T00:00:00"
+  },
+  {
+    "document_id": "DOC-00103",
+    "title": "Financial Document 104",
+    "category": "audit",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-2387.",
+    "created_at": "2024-04-13T00:00:00"
+  },
+  {
+    "document_id": "DOC-00104",
+    "title": "Financial Document 105",
+    "category": "regulatory",
+    "text": "Quarterly treasury report for USD exposure showing 434.4 million in net position.",
+    "created_at": "2024-04-14T00:00:00"
+  },
+  {
+    "document_id": "DOC-00105",
+    "title": "Financial Document 106",
+    "category": "compliance",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0022 during Q3 2024.",
+    "created_at": "2024-04-15T00:00:00"
+  },
+  {
+    "document_id": "DOC-00106",
+    "title": "Financial Document 107",
+    "category": "treasury",
+    "text": "Risk assessment memo: FX hedging strategy review for EUR portfolio segment 6.",
+    "created_at": "2024-04-16T00:00:00"
+  },
+  {
+    "document_id": "DOC-00107",
+    "title": "Financial Document 108",
+    "category": "risk",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 3.",
+    "created_at": "2024-04-17T00:00:00"
+  },
+  {
+    "document_id": "DOC-00108",
+    "title": "Financial Document 109",
+    "category": "audit",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2024-04-18T00:00:00"
+  },
+  {
+    "document_id": "DOC-00109",
+    "title": "Financial Document 110",
+    "category": "regulatory",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-004 rated AAA.",
+    "created_at": "2024-04-19T00:00:00"
+  },
+  {
+    "document_id": "DOC-00110",
+    "title": "Financial Document 111",
+    "category": "compliance",
+    "text": "Multi-currency reconciliation report: variance of 0.89% identified in EUR ledger.",
+    "created_at": "2024-04-20T00:00:00"
+  },
+  {
+    "document_id": "DOC-00111",
+    "title": "Financial Document 112",
+    "category": "treasury",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-1060.",
+    "created_at": "2024-04-21T00:00:00"
+  },
+  {
+    "document_id": "DOC-00112",
+    "title": "Financial Document 113",
+    "category": "risk",
+    "text": "Quarterly treasury report for GBP exposure showing 299.5 million in net position.",
+    "created_at": "2024-04-22T00:00:00"
+  },
+  {
+    "document_id": "DOC-00113",
+    "title": "Financial Document 114",
+    "category": "audit",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0037 during Q3 2024.",
+    "created_at": "2024-04-23T00:00:00"
+  },
+  {
+    "document_id": "DOC-00114",
+    "title": "Financial Document 115",
+    "category": "regulatory",
+    "text": "Risk assessment memo: FX hedging strategy review for JPY portfolio segment 8.",
+    "created_at": "2024-04-24T00:00:00"
+  },
+  {
+    "document_id": "DOC-00115",
+    "title": "Financial Document 116",
+    "category": "compliance",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 1.",
+    "created_at": "2024-04-25T00:00:00"
+  },
+  {
+    "document_id": "DOC-00116",
+    "title": "Financial Document 117",
+    "category": "treasury",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q1 2024.",
+    "created_at": "2024-04-26T00:00:00"
+  },
+  {
+    "document_id": "DOC-00117",
+    "title": "Financial Document 118",
+    "category": "risk",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-007 rated AAA.",
+    "created_at": "2024-04-27T00:00:00"
+  },
+  {
+    "document_id": "DOC-00118",
+    "title": "Financial Document 119",
+    "category": "audit",
+    "text": "Multi-currency reconciliation report: variance of 3.65% identified in GBP ledger.",
+    "created_at": "2024-04-28T00:00:00"
+  },
+  {
+    "document_id": "DOC-00119",
+    "title": "Financial Document 120",
+    "category": "regulatory",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-9502.",
+    "created_at": "2024-04-29T00:00:00"
+  },
+  {
+    "document_id": "DOC-00120",
+    "title": "Financial Document 121",
+    "category": "compliance",
+    "text": "Quarterly treasury report for GBP exposure showing 435.2 million in net position.",
+    "created_at": "2024-04-30T00:00:00"
+  },
+  {
+    "document_id": "DOC-00121",
+    "title": "Financial Document 122",
+    "category": "treasury",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0044 during Q1 2024.",
+    "created_at": "2024-05-01T00:00:00"
+  },
+  {
+    "document_id": "DOC-00122",
+    "title": "Financial Document 123",
+    "category": "risk",
+    "text": "Risk assessment memo: FX hedging strategy review for CHF portfolio segment 8.",
+    "created_at": "2024-05-02T00:00:00"
+  },
+  {
+    "document_id": "DOC-00123",
+    "title": "Financial Document 124",
+    "category": "audit",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 1.",
+    "created_at": "2024-05-03T00:00:00"
+  },
+  {
+    "document_id": "DOC-00124",
+    "title": "Financial Document 125",
+    "category": "regulatory",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q3 2024.",
+    "created_at": "2024-05-04T00:00:00"
+  },
+  {
+    "document_id": "DOC-00125",
+    "title": "Financial Document 126",
+    "category": "compliance",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-009 rated AAA.",
+    "created_at": "2024-05-05T00:00:00"
+  },
+  {
+    "document_id": "DOC-00126",
+    "title": "Financial Document 127",
+    "category": "treasury",
+    "text": "Multi-currency reconciliation report: variance of 1.38% identified in CHF ledger.",
+    "created_at": "2024-05-06T00:00:00"
+  },
+  {
+    "document_id": "DOC-00127",
+    "title": "Financial Document 128",
+    "category": "risk",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-2933.",
+    "created_at": "2024-05-07T00:00:00"
+  },
+  {
+    "document_id": "DOC-00128",
+    "title": "Financial Document 129",
+    "category": "audit",
+    "text": "Quarterly treasury report for CHF exposure showing 46.7 million in net position.",
+    "created_at": "2024-05-08T00:00:00"
+  },
+  {
+    "document_id": "DOC-00129",
+    "title": "Financial Document 130",
+    "category": "regulatory",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0015 during Q2 2024.",
+    "created_at": "2024-05-09T00:00:00"
+  },
+  {
+    "document_id": "DOC-00130",
+    "title": "Financial Document 131",
+    "category": "compliance",
+    "text": "Risk assessment memo: FX hedging strategy review for JPY portfolio segment 1.",
+    "created_at": "2024-05-10T00:00:00"
+  },
+  {
+    "document_id": "DOC-00131",
+    "title": "Financial Document 132",
+    "category": "treasury",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 3.",
+    "created_at": "2024-05-11T00:00:00"
+  },
+  {
+    "document_id": "DOC-00132",
+    "title": "Financial Document 133",
+    "category": "risk",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q3 2024.",
+    "created_at": "2024-05-12T00:00:00"
+  },
+  {
+    "document_id": "DOC-00133",
+    "title": "Financial Document 134",
+    "category": "audit",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-018 rated BBB.",
+    "created_at": "2024-05-13T00:00:00"
+  },
+  {
+    "document_id": "DOC-00134",
+    "title": "Financial Document 135",
+    "category": "regulatory",
+    "text": "Multi-currency reconciliation report: variance of 3.21% identified in CHF ledger.",
+    "created_at": "2024-05-14T00:00:00"
+  },
+  {
+    "document_id": "DOC-00135",
+    "title": "Financial Document 136",
+    "category": "compliance",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-8059.",
+    "created_at": "2024-05-15T00:00:00"
+  },
+  {
+    "document_id": "DOC-00136",
+    "title": "Financial Document 137",
+    "category": "treasury",
+    "text": "Quarterly treasury report for JPY exposure showing 34.9 million in net position.",
+    "created_at": "2024-05-16T00:00:00"
+  },
+  {
+    "document_id": "DOC-00137",
+    "title": "Financial Document 138",
+    "category": "risk",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0047 during Q1 2024.",
+    "created_at": "2024-05-17T00:00:00"
+  },
+  {
+    "document_id": "DOC-00138",
+    "title": "Financial Document 139",
+    "category": "audit",
+    "text": "Risk assessment memo: FX hedging strategy review for GBP portfolio segment 2.",
+    "created_at": "2024-05-18T00:00:00"
+  },
+  {
+    "document_id": "DOC-00139",
+    "title": "Financial Document 140",
+    "category": "regulatory",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 2.",
+    "created_at": "2024-05-19T00:00:00"
+  },
+  {
+    "document_id": "DOC-00140",
+    "title": "Financial Document 141",
+    "category": "compliance",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q3 2024.",
+    "created_at": "2024-05-20T00:00:00"
+  },
+  {
+    "document_id": "DOC-00141",
+    "title": "Financial Document 142",
+    "category": "treasury",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-015 rated BBB.",
+    "created_at": "2024-05-21T00:00:00"
+  },
+  {
+    "document_id": "DOC-00142",
+    "title": "Financial Document 143",
+    "category": "risk",
+    "text": "Multi-currency reconciliation report: variance of 3.83% identified in JPY ledger.",
+    "created_at": "2024-05-22T00:00:00"
+  },
+  {
+    "document_id": "DOC-00143",
+    "title": "Financial Document 144",
+    "category": "audit",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-2875.",
+    "created_at": "2024-05-23T00:00:00"
+  },
+  {
+    "document_id": "DOC-00144",
+    "title": "Financial Document 145",
+    "category": "regulatory",
+    "text": "Quarterly treasury report for JPY exposure showing 279.6 million in net position.",
+    "created_at": "2024-05-24T00:00:00"
+  },
+  {
+    "document_id": "DOC-00145",
+    "title": "Financial Document 146",
+    "category": "compliance",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0018 during Q2 2024.",
+    "created_at": "2024-05-25T00:00:00"
+  },
+  {
+    "document_id": "DOC-00146",
+    "title": "Financial Document 147",
+    "category": "treasury",
+    "text": "Risk assessment memo: FX hedging strategy review for USD portfolio segment 8.",
+    "created_at": "2024-05-26T00:00:00"
+  },
+  {
+    "document_id": "DOC-00147",
+    "title": "Financial Document 148",
+    "category": "risk",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 2.",
+    "created_at": "2024-05-27T00:00:00"
+  },
+  {
+    "document_id": "DOC-00148",
+    "title": "Financial Document 149",
+    "category": "audit",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2024-05-28T00:00:00"
+  },
+  {
+    "document_id": "DOC-00149",
+    "title": "Financial Document 150",
+    "category": "regulatory",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-009 rated AAA.",
+    "created_at": "2024-05-29T00:00:00"
+  },
+  {
+    "document_id": "DOC-00150",
+    "title": "Financial Document 151",
+    "category": "compliance",
+    "text": "Multi-currency reconciliation report: variance of 4.48% identified in EUR ledger.",
+    "created_at": "2024-05-30T00:00:00"
+  },
+  {
+    "document_id": "DOC-00151",
+    "title": "Financial Document 152",
+    "category": "treasury",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-8179.",
+    "created_at": "2024-05-31T00:00:00"
+  },
+  {
+    "document_id": "DOC-00152",
+    "title": "Financial Document 153",
+    "category": "risk",
+    "text": "Quarterly treasury report for JPY exposure showing 80.6 million in net position.",
+    "created_at": "2024-06-01T00:00:00"
+  },
+  {
+    "document_id": "DOC-00153",
+    "title": "Financial Document 154",
+    "category": "audit",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0006 during Q2 2024.",
+    "created_at": "2024-06-02T00:00:00"
+  },
+  {
+    "document_id": "DOC-00154",
+    "title": "Financial Document 155",
+    "category": "regulatory",
+    "text": "Risk assessment memo: FX hedging strategy review for GBP portfolio segment 7.",
+    "created_at": "2024-06-03T00:00:00"
+  },
+  {
+    "document_id": "DOC-00155",
+    "title": "Financial Document 156",
+    "category": "compliance",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 4.",
+    "created_at": "2024-06-04T00:00:00"
+  },
+  {
+    "document_id": "DOC-00156",
+    "title": "Financial Document 157",
+    "category": "treasury",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q1 2024.",
+    "created_at": "2024-06-05T00:00:00"
+  },
+  {
+    "document_id": "DOC-00157",
+    "title": "Financial Document 158",
+    "category": "risk",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-005 rated BB.",
+    "created_at": "2024-06-06T00:00:00"
+  },
+  {
+    "document_id": "DOC-00158",
+    "title": "Financial Document 159",
+    "category": "audit",
+    "text": "Multi-currency reconciliation report: variance of 2.02% identified in JPY ledger.",
+    "created_at": "2024-06-07T00:00:00"
+  },
+  {
+    "document_id": "DOC-00159",
+    "title": "Financial Document 160",
+    "category": "regulatory",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-1629.",
+    "created_at": "2024-06-08T00:00:00"
+  },
+  {
+    "document_id": "DOC-00160",
+    "title": "Financial Document 161",
+    "category": "compliance",
+    "text": "Quarterly treasury report for EUR exposure showing 224.9 million in net position.",
+    "created_at": "2024-06-09T00:00:00"
+  },
+  {
+    "document_id": "DOC-00161",
+    "title": "Financial Document 162",
+    "category": "treasury",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0043 during Q1 2024.",
+    "created_at": "2024-06-10T00:00:00"
+  },
+  {
+    "document_id": "DOC-00162",
+    "title": "Financial Document 163",
+    "category": "risk",
+    "text": "Risk assessment memo: FX hedging strategy review for JPY portfolio segment 2.",
+    "created_at": "2024-06-11T00:00:00"
+  },
+  {
+    "document_id": "DOC-00163",
+    "title": "Financial Document 164",
+    "category": "audit",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 3.",
+    "created_at": "2024-06-12T00:00:00"
+  },
+  {
+    "document_id": "DOC-00164",
+    "title": "Financial Document 165",
+    "category": "regulatory",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q1 2024.",
+    "created_at": "2024-06-13T00:00:00"
+  },
+  {
+    "document_id": "DOC-00165",
+    "title": "Financial Document 166",
+    "category": "compliance",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-001 rated BB.",
+    "created_at": "2024-06-14T00:00:00"
+  },
+  {
+    "document_id": "DOC-00166",
+    "title": "Financial Document 167",
+    "category": "treasury",
+    "text": "Multi-currency reconciliation report: variance of 0.25% identified in EUR ledger.",
+    "created_at": "2024-06-15T00:00:00"
+  },
+  {
+    "document_id": "DOC-00167",
+    "title": "Financial Document 168",
+    "category": "risk",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-5033.",
+    "created_at": "2024-06-16T00:00:00"
+  },
+  {
+    "document_id": "DOC-00168",
+    "title": "Financial Document 169",
+    "category": "audit",
+    "text": "Quarterly treasury report for EUR exposure showing 302.9 million in net position.",
+    "created_at": "2024-06-17T00:00:00"
+  },
+  {
+    "document_id": "DOC-00169",
+    "title": "Financial Document 170",
+    "category": "regulatory",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0038 during Q2 2024.",
+    "created_at": "2024-06-18T00:00:00"
+  },
+  {
+    "document_id": "DOC-00170",
+    "title": "Financial Document 171",
+    "category": "compliance",
+    "text": "Risk assessment memo: FX hedging strategy review for GBP portfolio segment 6.",
+    "created_at": "2024-06-19T00:00:00"
+  },
+  {
+    "document_id": "DOC-00171",
+    "title": "Financial Document 172",
+    "category": "treasury",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 1.",
+    "created_at": "2024-06-20T00:00:00"
+  },
+  {
+    "document_id": "DOC-00172",
+    "title": "Financial Document 173",
+    "category": "risk",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2024-06-21T00:00:00"
+  },
+  {
+    "document_id": "DOC-00173",
+    "title": "Financial Document 174",
+    "category": "audit",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-016 rated AA.",
+    "created_at": "2024-06-22T00:00:00"
+  },
+  {
+    "document_id": "DOC-00174",
+    "title": "Financial Document 175",
+    "category": "regulatory",
+    "text": "Multi-currency reconciliation report: variance of 1.96% identified in CHF ledger.",
+    "created_at": "2024-06-23T00:00:00"
+  },
+  {
+    "document_id": "DOC-00175",
+    "title": "Financial Document 176",
+    "category": "compliance",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-8311.",
+    "created_at": "2024-06-24T00:00:00"
+  },
+  {
+    "document_id": "DOC-00176",
+    "title": "Financial Document 177",
+    "category": "treasury",
+    "text": "Quarterly treasury report for EUR exposure showing 305.6 million in net position.",
+    "created_at": "2024-06-25T00:00:00"
+  },
+  {
+    "document_id": "DOC-00177",
+    "title": "Financial Document 178",
+    "category": "risk",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0042 during Q2 2024.",
+    "created_at": "2024-06-26T00:00:00"
+  },
+  {
+    "document_id": "DOC-00178",
+    "title": "Financial Document 179",
+    "category": "audit",
+    "text": "Risk assessment memo: FX hedging strategy review for CHF portfolio segment 9.",
+    "created_at": "2024-06-27T00:00:00"
+  },
+  {
+    "document_id": "DOC-00179",
+    "title": "Financial Document 180",
+    "category": "regulatory",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 2.",
+    "created_at": "2024-06-28T00:00:00"
+  },
+  {
+    "document_id": "DOC-00180",
+    "title": "Financial Document 181",
+    "category": "compliance",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q1 2024.",
+    "created_at": "2024-06-29T00:00:00"
+  },
+  {
+    "document_id": "DOC-00181",
+    "title": "Financial Document 182",
+    "category": "treasury",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-002 rated A.",
+    "created_at": "2024-06-30T00:00:00"
+  },
+  {
+    "document_id": "DOC-00182",
+    "title": "Financial Document 183",
+    "category": "risk",
+    "text": "Multi-currency reconciliation report: variance of 4.54% identified in USD ledger.",
+    "created_at": "2024-07-01T00:00:00"
+  },
+  {
+    "document_id": "DOC-00183",
+    "title": "Financial Document 184",
+    "category": "audit",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-2804.",
+    "created_at": "2024-07-02T00:00:00"
+  },
+  {
+    "document_id": "DOC-00184",
+    "title": "Financial Document 185",
+    "category": "regulatory",
+    "text": "Quarterly treasury report for USD exposure showing 416.1 million in net position.",
+    "created_at": "2024-07-03T00:00:00"
+  },
+  {
+    "document_id": "DOC-00185",
+    "title": "Financial Document 186",
+    "category": "compliance",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0022 during Q2 2024.",
+    "created_at": "2024-07-04T00:00:00"
+  },
+  {
+    "document_id": "DOC-00186",
+    "title": "Financial Document 187",
+    "category": "treasury",
+    "text": "Risk assessment memo: FX hedging strategy review for JPY portfolio segment 9.",
+    "created_at": "2024-07-05T00:00:00"
+  },
+  {
+    "document_id": "DOC-00187",
+    "title": "Financial Document 188",
+    "category": "risk",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 4.",
+    "created_at": "2024-07-06T00:00:00"
+  },
+  {
+    "document_id": "DOC-00188",
+    "title": "Financial Document 189",
+    "category": "audit",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q3 2024.",
+    "created_at": "2024-07-07T00:00:00"
+  },
+  {
+    "document_id": "DOC-00189",
+    "title": "Financial Document 190",
+    "category": "regulatory",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-009 rated BB.",
+    "created_at": "2024-07-08T00:00:00"
+  },
+  {
+    "document_id": "DOC-00190",
+    "title": "Financial Document 191",
+    "category": "compliance",
+    "text": "Multi-currency reconciliation report: variance of 3.95% identified in GBP ledger.",
+    "created_at": "2024-07-09T00:00:00"
+  },
+  {
+    "document_id": "DOC-00191",
+    "title": "Financial Document 192",
+    "category": "treasury",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-8629.",
+    "created_at": "2024-07-10T00:00:00"
+  },
+  {
+    "document_id": "DOC-00192",
+    "title": "Financial Document 193",
+    "category": "risk",
+    "text": "Quarterly treasury report for GBP exposure showing 395.2 million in net position.",
+    "created_at": "2024-07-11T00:00:00"
+  },
+  {
+    "document_id": "DOC-00193",
+    "title": "Financial Document 194",
+    "category": "audit",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0025 during Q2 2024.",
+    "created_at": "2024-07-12T00:00:00"
+  },
+  {
+    "document_id": "DOC-00194",
+    "title": "Financial Document 195",
+    "category": "regulatory",
+    "text": "Risk assessment memo: FX hedging strategy review for CHF portfolio segment 6.",
+    "created_at": "2024-07-13T00:00:00"
+  },
+  {
+    "document_id": "DOC-00195",
+    "title": "Financial Document 196",
+    "category": "compliance",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 2.",
+    "created_at": "2024-07-14T00:00:00"
+  },
+  {
+    "document_id": "DOC-00196",
+    "title": "Financial Document 197",
+    "category": "treasury",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q1 2024.",
+    "created_at": "2024-07-15T00:00:00"
+  },
+  {
+    "document_id": "DOC-00197",
+    "title": "Financial Document 198",
+    "category": "risk",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-014 rated A.",
+    "created_at": "2024-07-16T00:00:00"
+  },
+  {
+    "document_id": "DOC-00198",
+    "title": "Financial Document 199",
+    "category": "audit",
+    "text": "Multi-currency reconciliation report: variance of 1.6% identified in JPY ledger.",
+    "created_at": "2024-07-17T00:00:00"
+  },
+  {
+    "document_id": "DOC-00199",
+    "title": "Financial Document 200",
+    "category": "regulatory",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-4716.",
+    "created_at": "2024-07-18T00:00:00"
+  },
+  {
+    "document_id": "DOC-00200",
+    "title": "Financial Document 201",
+    "category": "compliance",
+    "text": "Quarterly treasury report for EUR exposure showing 67.8 million in net position.",
+    "created_at": "2024-07-19T00:00:00"
+  },
+  {
+    "document_id": "DOC-00201",
+    "title": "Financial Document 202",
+    "category": "treasury",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0021 during Q1 2024.",
+    "created_at": "2024-07-20T00:00:00"
+  },
+  {
+    "document_id": "DOC-00202",
+    "title": "Financial Document 203",
+    "category": "risk",
+    "text": "Risk assessment memo: FX hedging strategy review for GBP portfolio segment 4.",
+    "created_at": "2024-07-21T00:00:00"
+  },
+  {
+    "document_id": "DOC-00203",
+    "title": "Financial Document 204",
+    "category": "audit",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 4.",
+    "created_at": "2024-07-22T00:00:00"
+  },
+  {
+    "document_id": "DOC-00204",
+    "title": "Financial Document 205",
+    "category": "regulatory",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q3 2024.",
+    "created_at": "2024-07-23T00:00:00"
+  },
+  {
+    "document_id": "DOC-00205",
+    "title": "Financial Document 206",
+    "category": "compliance",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-008 rated AAA.",
+    "created_at": "2024-07-24T00:00:00"
+  },
+  {
+    "document_id": "DOC-00206",
+    "title": "Financial Document 207",
+    "category": "treasury",
+    "text": "Multi-currency reconciliation report: variance of 2.36% identified in CHF ledger.",
+    "created_at": "2024-07-25T00:00:00"
+  },
+  {
+    "document_id": "DOC-00207",
+    "title": "Financial Document 208",
+    "category": "risk",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-7511.",
+    "created_at": "2024-07-26T00:00:00"
+  },
+  {
+    "document_id": "DOC-00208",
+    "title": "Financial Document 209",
+    "category": "audit",
+    "text": "Quarterly treasury report for JPY exposure showing 449.6 million in net position.",
+    "created_at": "2024-07-27T00:00:00"
+  },
+  {
+    "document_id": "DOC-00209",
+    "title": "Financial Document 210",
+    "category": "regulatory",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0010 during Q1 2024.",
+    "created_at": "2024-07-28T00:00:00"
+  },
+  {
+    "document_id": "DOC-00210",
+    "title": "Financial Document 211",
+    "category": "compliance",
+    "text": "Risk assessment memo: FX hedging strategy review for JPY portfolio segment 1.",
+    "created_at": "2024-07-29T00:00:00"
+  },
+  {
+    "document_id": "DOC-00211",
+    "title": "Financial Document 212",
+    "category": "treasury",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 1.",
+    "created_at": "2024-07-30T00:00:00"
+  },
+  {
+    "document_id": "DOC-00212",
+    "title": "Financial Document 213",
+    "category": "risk",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2024-07-31T00:00:00"
+  },
+  {
+    "document_id": "DOC-00213",
+    "title": "Financial Document 214",
+    "category": "audit",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-015 rated BBB.",
+    "created_at": "2024-08-01T00:00:00"
+  },
+  {
+    "document_id": "DOC-00214",
+    "title": "Financial Document 215",
+    "category": "regulatory",
+    "text": "Multi-currency reconciliation report: variance of 0.56% identified in JPY ledger.",
+    "created_at": "2024-08-02T00:00:00"
+  },
+  {
+    "document_id": "DOC-00215",
+    "title": "Financial Document 216",
+    "category": "compliance",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-6343.",
+    "created_at": "2024-08-03T00:00:00"
+  },
+  {
+    "document_id": "DOC-00216",
+    "title": "Financial Document 217",
+    "category": "treasury",
+    "text": "Quarterly treasury report for EUR exposure showing 329.1 million in net position.",
+    "created_at": "2024-08-04T00:00:00"
+  },
+  {
+    "document_id": "DOC-00217",
+    "title": "Financial Document 218",
+    "category": "risk",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0036 during Q2 2024.",
+    "created_at": "2024-08-05T00:00:00"
+  },
+  {
+    "document_id": "DOC-00218",
+    "title": "Financial Document 219",
+    "category": "audit",
+    "text": "Risk assessment memo: FX hedging strategy review for JPY portfolio segment 6.",
+    "created_at": "2024-08-06T00:00:00"
+  },
+  {
+    "document_id": "DOC-00219",
+    "title": "Financial Document 220",
+    "category": "regulatory",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 2.",
+    "created_at": "2024-08-07T00:00:00"
+  },
+  {
+    "document_id": "DOC-00220",
+    "title": "Financial Document 221",
+    "category": "compliance",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q1 2024.",
+    "created_at": "2024-08-08T00:00:00"
+  },
+  {
+    "document_id": "DOC-00221",
+    "title": "Financial Document 222",
+    "category": "treasury",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-018 rated A.",
+    "created_at": "2024-08-09T00:00:00"
+  },
+  {
+    "document_id": "DOC-00222",
+    "title": "Financial Document 223",
+    "category": "risk",
+    "text": "Multi-currency reconciliation report: variance of 2.26% identified in GBP ledger.",
+    "created_at": "2024-08-10T00:00:00"
+  },
+  {
+    "document_id": "DOC-00223",
+    "title": "Financial Document 224",
+    "category": "audit",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-6237.",
+    "created_at": "2024-08-11T00:00:00"
+  },
+  {
+    "document_id": "DOC-00224",
+    "title": "Financial Document 225",
+    "category": "regulatory",
+    "text": "Quarterly treasury report for CHF exposure showing 87.6 million in net position.",
+    "created_at": "2024-08-12T00:00:00"
+  },
+  {
+    "document_id": "DOC-00225",
+    "title": "Financial Document 226",
+    "category": "compliance",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0003 during Q1 2024.",
+    "created_at": "2024-08-13T00:00:00"
+  },
+  {
+    "document_id": "DOC-00226",
+    "title": "Financial Document 227",
+    "category": "treasury",
+    "text": "Risk assessment memo: FX hedging strategy review for CHF portfolio segment 3.",
+    "created_at": "2024-08-14T00:00:00"
+  },
+  {
+    "document_id": "DOC-00227",
+    "title": "Financial Document 228",
+    "category": "risk",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 3.",
+    "created_at": "2024-08-15T00:00:00"
+  },
+  {
+    "document_id": "DOC-00228",
+    "title": "Financial Document 229",
+    "category": "audit",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2024-08-16T00:00:00"
+  },
+  {
+    "document_id": "DOC-00229",
+    "title": "Financial Document 230",
+    "category": "regulatory",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-013 rated BBB.",
+    "created_at": "2024-08-17T00:00:00"
+  },
+  {
+    "document_id": "DOC-00230",
+    "title": "Financial Document 231",
+    "category": "compliance",
+    "text": "Multi-currency reconciliation report: variance of 1.8% identified in GBP ledger.",
+    "created_at": "2024-08-18T00:00:00"
+  },
+  {
+    "document_id": "DOC-00231",
+    "title": "Financial Document 232",
+    "category": "treasury",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-7164.",
+    "created_at": "2024-08-19T00:00:00"
+  },
+  {
+    "document_id": "DOC-00232",
+    "title": "Financial Document 233",
+    "category": "risk",
+    "text": "Quarterly treasury report for EUR exposure showing 73.3 million in net position.",
+    "created_at": "2024-08-20T00:00:00"
+  },
+  {
+    "document_id": "DOC-00233",
+    "title": "Financial Document 234",
+    "category": "audit",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0004 during Q3 2024.",
+    "created_at": "2024-08-21T00:00:00"
+  },
+  {
+    "document_id": "DOC-00234",
+    "title": "Financial Document 235",
+    "category": "regulatory",
+    "text": "Risk assessment memo: FX hedging strategy review for EUR portfolio segment 7.",
+    "created_at": "2024-08-22T00:00:00"
+  },
+  {
+    "document_id": "DOC-00235",
+    "title": "Financial Document 236",
+    "category": "compliance",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 2.",
+    "created_at": "2024-08-23T00:00:00"
+  },
+  {
+    "document_id": "DOC-00236",
+    "title": "Financial Document 237",
+    "category": "treasury",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q3 2024.",
+    "created_at": "2024-08-24T00:00:00"
+  },
+  {
+    "document_id": "DOC-00237",
+    "title": "Financial Document 238",
+    "category": "risk",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-017 rated AA.",
+    "created_at": "2024-08-25T00:00:00"
+  },
+  {
+    "document_id": "DOC-00238",
+    "title": "Financial Document 239",
+    "category": "audit",
+    "text": "Multi-currency reconciliation report: variance of 3.9% identified in JPY ledger.",
+    "created_at": "2024-08-26T00:00:00"
+  },
+  {
+    "document_id": "DOC-00239",
+    "title": "Financial Document 240",
+    "category": "regulatory",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-7063.",
+    "created_at": "2024-08-27T00:00:00"
+  },
+  {
+    "document_id": "DOC-00240",
+    "title": "Financial Document 241",
+    "category": "compliance",
+    "text": "Quarterly treasury report for EUR exposure showing 79.8 million in net position.",
+    "created_at": "2024-08-28T00:00:00"
+  },
+  {
+    "document_id": "DOC-00241",
+    "title": "Financial Document 242",
+    "category": "treasury",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0008 during Q1 2024.",
+    "created_at": "2024-08-29T00:00:00"
+  },
+  {
+    "document_id": "DOC-00242",
+    "title": "Financial Document 243",
+    "category": "risk",
+    "text": "Risk assessment memo: FX hedging strategy review for USD portfolio segment 2.",
+    "created_at": "2024-08-30T00:00:00"
+  },
+  {
+    "document_id": "DOC-00243",
+    "title": "Financial Document 244",
+    "category": "audit",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 4.",
+    "created_at": "2024-08-31T00:00:00"
+  },
+  {
+    "document_id": "DOC-00244",
+    "title": "Financial Document 245",
+    "category": "regulatory",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2024-09-01T00:00:00"
+  },
+  {
+    "document_id": "DOC-00245",
+    "title": "Financial Document 246",
+    "category": "compliance",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-002 rated AAA.",
+    "created_at": "2024-09-02T00:00:00"
+  },
+  {
+    "document_id": "DOC-00246",
+    "title": "Financial Document 247",
+    "category": "treasury",
+    "text": "Multi-currency reconciliation report: variance of 3.21% identified in GBP ledger.",
+    "created_at": "2024-09-03T00:00:00"
+  },
+  {
+    "document_id": "DOC-00247",
+    "title": "Financial Document 248",
+    "category": "risk",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-7144.",
+    "created_at": "2024-09-04T00:00:00"
+  },
+  {
+    "document_id": "DOC-00248",
+    "title": "Financial Document 249",
+    "category": "audit",
+    "text": "Quarterly treasury report for GBP exposure showing 347.4 million in net position.",
+    "created_at": "2024-09-05T00:00:00"
+  },
+  {
+    "document_id": "DOC-00249",
+    "title": "Financial Document 250",
+    "category": "regulatory",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0039 during Q1 2024.",
+    "created_at": "2024-09-06T00:00:00"
+  },
+  {
+    "document_id": "DOC-00250",
+    "title": "Financial Document 251",
+    "category": "compliance",
+    "text": "Risk assessment memo: FX hedging strategy review for GBP portfolio segment 8.",
+    "created_at": "2024-09-07T00:00:00"
+  },
+  {
+    "document_id": "DOC-00251",
+    "title": "Financial Document 252",
+    "category": "treasury",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 3.",
+    "created_at": "2024-09-08T00:00:00"
+  },
+  {
+    "document_id": "DOC-00252",
+    "title": "Financial Document 253",
+    "category": "risk",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q3 2024.",
+    "created_at": "2024-09-09T00:00:00"
+  },
+  {
+    "document_id": "DOC-00253",
+    "title": "Financial Document 254",
+    "category": "audit",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-009 rated AAA.",
+    "created_at": "2024-09-10T00:00:00"
+  },
+  {
+    "document_id": "DOC-00254",
+    "title": "Financial Document 255",
+    "category": "regulatory",
+    "text": "Multi-currency reconciliation report: variance of 3.01% identified in USD ledger.",
+    "created_at": "2024-09-11T00:00:00"
+  },
+  {
+    "document_id": "DOC-00255",
+    "title": "Financial Document 256",
+    "category": "compliance",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-2348.",
+    "created_at": "2024-09-12T00:00:00"
+  },
+  {
+    "document_id": "DOC-00256",
+    "title": "Financial Document 257",
+    "category": "treasury",
+    "text": "Quarterly treasury report for JPY exposure showing 110.9 million in net position.",
+    "created_at": "2024-09-13T00:00:00"
+  },
+  {
+    "document_id": "DOC-00257",
+    "title": "Financial Document 258",
+    "category": "risk",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0023 during Q3 2024.",
+    "created_at": "2024-09-14T00:00:00"
+  },
+  {
+    "document_id": "DOC-00258",
+    "title": "Financial Document 259",
+    "category": "audit",
+    "text": "Risk assessment memo: FX hedging strategy review for CHF portfolio segment 3.",
+    "created_at": "2024-09-15T00:00:00"
+  },
+  {
+    "document_id": "DOC-00259",
+    "title": "Financial Document 260",
+    "category": "regulatory",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 2.",
+    "created_at": "2024-09-16T00:00:00"
+  },
+  {
+    "document_id": "DOC-00260",
+    "title": "Financial Document 261",
+    "category": "compliance",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2024-09-17T00:00:00"
+  },
+  {
+    "document_id": "DOC-00261",
+    "title": "Financial Document 262",
+    "category": "treasury",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-013 rated BB.",
+    "created_at": "2024-09-18T00:00:00"
+  },
+  {
+    "document_id": "DOC-00262",
+    "title": "Financial Document 263",
+    "category": "risk",
+    "text": "Multi-currency reconciliation report: variance of 1.54% identified in USD ledger.",
+    "created_at": "2024-09-19T00:00:00"
+  },
+  {
+    "document_id": "DOC-00263",
+    "title": "Financial Document 264",
+    "category": "audit",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-4112.",
+    "created_at": "2024-09-20T00:00:00"
+  },
+  {
+    "document_id": "DOC-00264",
+    "title": "Financial Document 265",
+    "category": "regulatory",
+    "text": "Quarterly treasury report for CHF exposure showing 338.0 million in net position.",
+    "created_at": "2024-09-21T00:00:00"
+  },
+  {
+    "document_id": "DOC-00265",
+    "title": "Financial Document 266",
+    "category": "compliance",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0039 during Q2 2024.",
+    "created_at": "2024-09-22T00:00:00"
+  },
+  {
+    "document_id": "DOC-00266",
+    "title": "Financial Document 267",
+    "category": "treasury",
+    "text": "Risk assessment memo: FX hedging strategy review for JPY portfolio segment 1.",
+    "created_at": "2024-09-23T00:00:00"
+  },
+  {
+    "document_id": "DOC-00267",
+    "title": "Financial Document 268",
+    "category": "risk",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 3.",
+    "created_at": "2024-09-24T00:00:00"
+  },
+  {
+    "document_id": "DOC-00268",
+    "title": "Financial Document 269",
+    "category": "audit",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2024-09-25T00:00:00"
+  },
+  {
+    "document_id": "DOC-00269",
+    "title": "Financial Document 270",
+    "category": "regulatory",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-008 rated AA.",
+    "created_at": "2024-09-26T00:00:00"
+  },
+  {
+    "document_id": "DOC-00270",
+    "title": "Financial Document 271",
+    "category": "compliance",
+    "text": "Multi-currency reconciliation report: variance of 3.67% identified in GBP ledger.",
+    "created_at": "2024-09-27T00:00:00"
+  },
+  {
+    "document_id": "DOC-00271",
+    "title": "Financial Document 272",
+    "category": "treasury",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-4259.",
+    "created_at": "2024-09-28T00:00:00"
+  },
+  {
+    "document_id": "DOC-00272",
+    "title": "Financial Document 273",
+    "category": "risk",
+    "text": "Quarterly treasury report for JPY exposure showing 399.4 million in net position.",
+    "created_at": "2024-09-29T00:00:00"
+  },
+  {
+    "document_id": "DOC-00273",
+    "title": "Financial Document 274",
+    "category": "audit",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0024 during Q3 2024.",
+    "created_at": "2024-09-30T00:00:00"
+  },
+  {
+    "document_id": "DOC-00274",
+    "title": "Financial Document 275",
+    "category": "regulatory",
+    "text": "Risk assessment memo: FX hedging strategy review for USD portfolio segment 2.",
+    "created_at": "2024-10-01T00:00:00"
+  },
+  {
+    "document_id": "DOC-00275",
+    "title": "Financial Document 276",
+    "category": "compliance",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 3.",
+    "created_at": "2024-10-02T00:00:00"
+  },
+  {
+    "document_id": "DOC-00276",
+    "title": "Financial Document 277",
+    "category": "treasury",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q3 2024.",
+    "created_at": "2024-10-03T00:00:00"
+  },
+  {
+    "document_id": "DOC-00277",
+    "title": "Financial Document 278",
+    "category": "risk",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-003 rated BBB.",
+    "created_at": "2024-10-04T00:00:00"
+  },
+  {
+    "document_id": "DOC-00278",
+    "title": "Financial Document 279",
+    "category": "audit",
+    "text": "Multi-currency reconciliation report: variance of 4.9% identified in USD ledger.",
+    "created_at": "2024-10-05T00:00:00"
+  },
+  {
+    "document_id": "DOC-00279",
+    "title": "Financial Document 280",
+    "category": "regulatory",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-8730.",
+    "created_at": "2024-10-06T00:00:00"
+  },
+  {
+    "document_id": "DOC-00280",
+    "title": "Financial Document 281",
+    "category": "compliance",
+    "text": "Quarterly treasury report for EUR exposure showing 29.8 million in net position.",
+    "created_at": "2024-10-07T00:00:00"
+  },
+  {
+    "document_id": "DOC-00281",
+    "title": "Financial Document 282",
+    "category": "treasury",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0047 during Q2 2024.",
+    "created_at": "2024-10-08T00:00:00"
+  },
+  {
+    "document_id": "DOC-00282",
+    "title": "Financial Document 283",
+    "category": "risk",
+    "text": "Risk assessment memo: FX hedging strategy review for USD portfolio segment 7.",
+    "created_at": "2024-10-09T00:00:00"
+  },
+  {
+    "document_id": "DOC-00283",
+    "title": "Financial Document 284",
+    "category": "audit",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 1.",
+    "created_at": "2024-10-10T00:00:00"
+  },
+  {
+    "document_id": "DOC-00284",
+    "title": "Financial Document 285",
+    "category": "regulatory",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q3 2024.",
+    "created_at": "2024-10-11T00:00:00"
+  },
+  {
+    "document_id": "DOC-00285",
+    "title": "Financial Document 286",
+    "category": "compliance",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-011 rated AAA.",
+    "created_at": "2024-10-12T00:00:00"
+  },
+  {
+    "document_id": "DOC-00286",
+    "title": "Financial Document 287",
+    "category": "treasury",
+    "text": "Multi-currency reconciliation report: variance of 4.05% identified in GBP ledger.",
+    "created_at": "2024-10-13T00:00:00"
+  },
+  {
+    "document_id": "DOC-00287",
+    "title": "Financial Document 288",
+    "category": "risk",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-6442.",
+    "created_at": "2024-10-14T00:00:00"
+  },
+  {
+    "document_id": "DOC-00288",
+    "title": "Financial Document 289",
+    "category": "audit",
+    "text": "Quarterly treasury report for GBP exposure showing 16.4 million in net position.",
+    "created_at": "2024-10-15T00:00:00"
+  },
+  {
+    "document_id": "DOC-00289",
+    "title": "Financial Document 290",
+    "category": "regulatory",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0002 during Q1 2024.",
+    "created_at": "2024-10-16T00:00:00"
+  },
+  {
+    "document_id": "DOC-00290",
+    "title": "Financial Document 291",
+    "category": "compliance",
+    "text": "Risk assessment memo: FX hedging strategy review for USD portfolio segment 3.",
+    "created_at": "2024-10-17T00:00:00"
+  },
+  {
+    "document_id": "DOC-00291",
+    "title": "Financial Document 292",
+    "category": "treasury",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 4.",
+    "created_at": "2024-10-18T00:00:00"
+  },
+  {
+    "document_id": "DOC-00292",
+    "title": "Financial Document 293",
+    "category": "risk",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q1 2024.",
+    "created_at": "2024-10-19T00:00:00"
+  },
+  {
+    "document_id": "DOC-00293",
+    "title": "Financial Document 294",
+    "category": "audit",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-013 rated BBB.",
+    "created_at": "2024-10-20T00:00:00"
+  },
+  {
+    "document_id": "DOC-00294",
+    "title": "Financial Document 295",
+    "category": "regulatory",
+    "text": "Multi-currency reconciliation report: variance of 0.26% identified in GBP ledger.",
+    "created_at": "2024-10-21T00:00:00"
+  },
+  {
+    "document_id": "DOC-00295",
+    "title": "Financial Document 296",
+    "category": "compliance",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-2589.",
+    "created_at": "2024-10-22T00:00:00"
+  },
+  {
+    "document_id": "DOC-00296",
+    "title": "Financial Document 297",
+    "category": "treasury",
+    "text": "Quarterly treasury report for JPY exposure showing 318.9 million in net position.",
+    "created_at": "2024-10-23T00:00:00"
+  },
+  {
+    "document_id": "DOC-00297",
+    "title": "Financial Document 298",
+    "category": "risk",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0031 during Q2 2024.",
+    "created_at": "2024-10-24T00:00:00"
+  },
+  {
+    "document_id": "DOC-00298",
+    "title": "Financial Document 299",
+    "category": "audit",
+    "text": "Risk assessment memo: FX hedging strategy review for USD portfolio segment 2.",
+    "created_at": "2024-10-25T00:00:00"
+  },
+  {
+    "document_id": "DOC-00299",
+    "title": "Financial Document 300",
+    "category": "regulatory",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 1.",
+    "created_at": "2024-10-26T00:00:00"
+  },
+  {
+    "document_id": "DOC-00300",
+    "title": "Financial Document 301",
+    "category": "compliance",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2024-10-27T00:00:00"
+  },
+  {
+    "document_id": "DOC-00301",
+    "title": "Financial Document 302",
+    "category": "treasury",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-015 rated BB.",
+    "created_at": "2024-10-28T00:00:00"
+  },
+  {
+    "document_id": "DOC-00302",
+    "title": "Financial Document 303",
+    "category": "risk",
+    "text": "Multi-currency reconciliation report: variance of 3.26% identified in JPY ledger.",
+    "created_at": "2024-10-29T00:00:00"
+  },
+  {
+    "document_id": "DOC-00303",
+    "title": "Financial Document 304",
+    "category": "audit",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-6574.",
+    "created_at": "2024-10-30T00:00:00"
+  },
+  {
+    "document_id": "DOC-00304",
+    "title": "Financial Document 305",
+    "category": "regulatory",
+    "text": "Quarterly treasury report for USD exposure showing 93.8 million in net position.",
+    "created_at": "2024-10-31T00:00:00"
+  },
+  {
+    "document_id": "DOC-00305",
+    "title": "Financial Document 306",
+    "category": "compliance",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0023 during Q1 2024.",
+    "created_at": "2024-11-01T00:00:00"
+  },
+  {
+    "document_id": "DOC-00306",
+    "title": "Financial Document 307",
+    "category": "treasury",
+    "text": "Risk assessment memo: FX hedging strategy review for JPY portfolio segment 6.",
+    "created_at": "2024-11-02T00:00:00"
+  },
+  {
+    "document_id": "DOC-00307",
+    "title": "Financial Document 308",
+    "category": "risk",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 2.",
+    "created_at": "2024-11-03T00:00:00"
+  },
+  {
+    "document_id": "DOC-00308",
+    "title": "Financial Document 309",
+    "category": "audit",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q1 2024.",
+    "created_at": "2024-11-04T00:00:00"
+  },
+  {
+    "document_id": "DOC-00309",
+    "title": "Financial Document 310",
+    "category": "regulatory",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-012 rated A.",
+    "created_at": "2024-11-05T00:00:00"
+  },
+  {
+    "document_id": "DOC-00310",
+    "title": "Financial Document 311",
+    "category": "compliance",
+    "text": "Multi-currency reconciliation report: variance of 3.25% identified in USD ledger.",
+    "created_at": "2024-11-06T00:00:00"
+  },
+  {
+    "document_id": "DOC-00311",
+    "title": "Financial Document 312",
+    "category": "treasury",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-9835.",
+    "created_at": "2024-11-07T00:00:00"
+  },
+  {
+    "document_id": "DOC-00312",
+    "title": "Financial Document 313",
+    "category": "risk",
+    "text": "Quarterly treasury report for GBP exposure showing 355.4 million in net position.",
+    "created_at": "2024-11-08T00:00:00"
+  },
+  {
+    "document_id": "DOC-00313",
+    "title": "Financial Document 314",
+    "category": "audit",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0005 during Q2 2024.",
+    "created_at": "2024-11-09T00:00:00"
+  },
+  {
+    "document_id": "DOC-00314",
+    "title": "Financial Document 315",
+    "category": "regulatory",
+    "text": "Risk assessment memo: FX hedging strategy review for GBP portfolio segment 1.",
+    "created_at": "2024-11-10T00:00:00"
+  },
+  {
+    "document_id": "DOC-00315",
+    "title": "Financial Document 316",
+    "category": "compliance",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 1.",
+    "created_at": "2024-11-11T00:00:00"
+  },
+  {
+    "document_id": "DOC-00316",
+    "title": "Financial Document 317",
+    "category": "treasury",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2024-11-12T00:00:00"
+  },
+  {
+    "document_id": "DOC-00317",
+    "title": "Financial Document 318",
+    "category": "risk",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-013 rated AA.",
+    "created_at": "2024-11-13T00:00:00"
+  },
+  {
+    "document_id": "DOC-00318",
+    "title": "Financial Document 319",
+    "category": "audit",
+    "text": "Multi-currency reconciliation report: variance of 4.91% identified in GBP ledger.",
+    "created_at": "2024-11-14T00:00:00"
+  },
+  {
+    "document_id": "DOC-00319",
+    "title": "Financial Document 320",
+    "category": "regulatory",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-4423.",
+    "created_at": "2024-11-15T00:00:00"
+  },
+  {
+    "document_id": "DOC-00320",
+    "title": "Financial Document 321",
+    "category": "compliance",
+    "text": "Quarterly treasury report for JPY exposure showing 124.4 million in net position.",
+    "created_at": "2024-11-16T00:00:00"
+  },
+  {
+    "document_id": "DOC-00321",
+    "title": "Financial Document 322",
+    "category": "treasury",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0028 during Q2 2024.",
+    "created_at": "2024-11-17T00:00:00"
+  },
+  {
+    "document_id": "DOC-00322",
+    "title": "Financial Document 323",
+    "category": "risk",
+    "text": "Risk assessment memo: FX hedging strategy review for CHF portfolio segment 4.",
+    "created_at": "2024-11-18T00:00:00"
+  },
+  {
+    "document_id": "DOC-00323",
+    "title": "Financial Document 324",
+    "category": "audit",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 3.",
+    "created_at": "2024-11-19T00:00:00"
+  },
+  {
+    "document_id": "DOC-00324",
+    "title": "Financial Document 325",
+    "category": "regulatory",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q1 2024.",
+    "created_at": "2024-11-20T00:00:00"
+  },
+  {
+    "document_id": "DOC-00325",
+    "title": "Financial Document 326",
+    "category": "compliance",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-017 rated AA.",
+    "created_at": "2024-11-21T00:00:00"
+  },
+  {
+    "document_id": "DOC-00326",
+    "title": "Financial Document 327",
+    "category": "treasury",
+    "text": "Multi-currency reconciliation report: variance of 0.8% identified in JPY ledger.",
+    "created_at": "2024-11-22T00:00:00"
+  },
+  {
+    "document_id": "DOC-00327",
+    "title": "Financial Document 328",
+    "category": "risk",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-5316.",
+    "created_at": "2024-11-23T00:00:00"
+  },
+  {
+    "document_id": "DOC-00328",
+    "title": "Financial Document 329",
+    "category": "audit",
+    "text": "Quarterly treasury report for USD exposure showing 148.6 million in net position.",
+    "created_at": "2024-11-24T00:00:00"
+  },
+  {
+    "document_id": "DOC-00329",
+    "title": "Financial Document 330",
+    "category": "regulatory",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0034 during Q1 2024.",
+    "created_at": "2024-11-25T00:00:00"
+  },
+  {
+    "document_id": "DOC-00330",
+    "title": "Financial Document 331",
+    "category": "compliance",
+    "text": "Risk assessment memo: FX hedging strategy review for USD portfolio segment 9.",
+    "created_at": "2024-11-26T00:00:00"
+  },
+  {
+    "document_id": "DOC-00331",
+    "title": "Financial Document 332",
+    "category": "treasury",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 3.",
+    "created_at": "2024-11-27T00:00:00"
+  },
+  {
+    "document_id": "DOC-00332",
+    "title": "Financial Document 333",
+    "category": "risk",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q1 2024.",
+    "created_at": "2024-11-28T00:00:00"
+  },
+  {
+    "document_id": "DOC-00333",
+    "title": "Financial Document 334",
+    "category": "audit",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-010 rated A.",
+    "created_at": "2024-11-29T00:00:00"
+  },
+  {
+    "document_id": "DOC-00334",
+    "title": "Financial Document 335",
+    "category": "regulatory",
+    "text": "Multi-currency reconciliation report: variance of 2.62% identified in USD ledger.",
+    "created_at": "2024-11-30T00:00:00"
+  },
+  {
+    "document_id": "DOC-00335",
+    "title": "Financial Document 336",
+    "category": "compliance",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-1166.",
+    "created_at": "2024-12-01T00:00:00"
+  },
+  {
+    "document_id": "DOC-00336",
+    "title": "Financial Document 337",
+    "category": "treasury",
+    "text": "Quarterly treasury report for CHF exposure showing 431.0 million in net position.",
+    "created_at": "2024-12-02T00:00:00"
+  },
+  {
+    "document_id": "DOC-00337",
+    "title": "Financial Document 338",
+    "category": "risk",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0012 during Q3 2024.",
+    "created_at": "2024-12-03T00:00:00"
+  },
+  {
+    "document_id": "DOC-00338",
+    "title": "Financial Document 339",
+    "category": "audit",
+    "text": "Risk assessment memo: FX hedging strategy review for JPY portfolio segment 4.",
+    "created_at": "2024-12-04T00:00:00"
+  },
+  {
+    "document_id": "DOC-00339",
+    "title": "Financial Document 340",
+    "category": "regulatory",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 1.",
+    "created_at": "2024-12-05T00:00:00"
+  },
+  {
+    "document_id": "DOC-00340",
+    "title": "Financial Document 341",
+    "category": "compliance",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q3 2024.",
+    "created_at": "2024-12-06T00:00:00"
+  },
+  {
+    "document_id": "DOC-00341",
+    "title": "Financial Document 342",
+    "category": "treasury",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-018 rated A.",
+    "created_at": "2024-12-07T00:00:00"
+  },
+  {
+    "document_id": "DOC-00342",
+    "title": "Financial Document 343",
+    "category": "risk",
+    "text": "Multi-currency reconciliation report: variance of 4.68% identified in JPY ledger.",
+    "created_at": "2024-12-08T00:00:00"
+  },
+  {
+    "document_id": "DOC-00343",
+    "title": "Financial Document 344",
+    "category": "audit",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-7340.",
+    "created_at": "2024-12-09T00:00:00"
+  },
+  {
+    "document_id": "DOC-00344",
+    "title": "Financial Document 345",
+    "category": "regulatory",
+    "text": "Quarterly treasury report for GBP exposure showing 29.2 million in net position.",
+    "created_at": "2024-12-10T00:00:00"
+  },
+  {
+    "document_id": "DOC-00345",
+    "title": "Financial Document 346",
+    "category": "compliance",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0018 during Q3 2024.",
+    "created_at": "2024-12-11T00:00:00"
+  },
+  {
+    "document_id": "DOC-00346",
+    "title": "Financial Document 347",
+    "category": "treasury",
+    "text": "Risk assessment memo: FX hedging strategy review for CHF portfolio segment 2.",
+    "created_at": "2024-12-12T00:00:00"
+  },
+  {
+    "document_id": "DOC-00347",
+    "title": "Financial Document 348",
+    "category": "risk",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 4.",
+    "created_at": "2024-12-13T00:00:00"
+  },
+  {
+    "document_id": "DOC-00348",
+    "title": "Financial Document 349",
+    "category": "audit",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q3 2024.",
+    "created_at": "2024-12-14T00:00:00"
+  },
+  {
+    "document_id": "DOC-00349",
+    "title": "Financial Document 350",
+    "category": "regulatory",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-002 rated BB.",
+    "created_at": "2024-12-15T00:00:00"
+  },
+  {
+    "document_id": "DOC-00350",
+    "title": "Financial Document 351",
+    "category": "compliance",
+    "text": "Multi-currency reconciliation report: variance of 1.93% identified in EUR ledger.",
+    "created_at": "2024-12-16T00:00:00"
+  },
+  {
+    "document_id": "DOC-00351",
+    "title": "Financial Document 352",
+    "category": "treasury",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-3093.",
+    "created_at": "2024-12-17T00:00:00"
+  },
+  {
+    "document_id": "DOC-00352",
+    "title": "Financial Document 353",
+    "category": "risk",
+    "text": "Quarterly treasury report for EUR exposure showing 370.0 million in net position.",
+    "created_at": "2024-12-18T00:00:00"
+  },
+  {
+    "document_id": "DOC-00353",
+    "title": "Financial Document 354",
+    "category": "audit",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0015 during Q1 2024.",
+    "created_at": "2024-12-19T00:00:00"
+  },
+  {
+    "document_id": "DOC-00354",
+    "title": "Financial Document 355",
+    "category": "regulatory",
+    "text": "Risk assessment memo: FX hedging strategy review for USD portfolio segment 8.",
+    "created_at": "2024-12-20T00:00:00"
+  },
+  {
+    "document_id": "DOC-00355",
+    "title": "Financial Document 356",
+    "category": "compliance",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 4.",
+    "created_at": "2024-12-21T00:00:00"
+  },
+  {
+    "document_id": "DOC-00356",
+    "title": "Financial Document 357",
+    "category": "treasury",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q3 2024.",
+    "created_at": "2024-12-22T00:00:00"
+  },
+  {
+    "document_id": "DOC-00357",
+    "title": "Financial Document 358",
+    "category": "risk",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-010 rated AAA.",
+    "created_at": "2024-12-23T00:00:00"
+  },
+  {
+    "document_id": "DOC-00358",
+    "title": "Financial Document 359",
+    "category": "audit",
+    "text": "Multi-currency reconciliation report: variance of 2.33% identified in USD ledger.",
+    "created_at": "2024-12-24T00:00:00"
+  },
+  {
+    "document_id": "DOC-00359",
+    "title": "Financial Document 360",
+    "category": "regulatory",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-8697.",
+    "created_at": "2024-12-25T00:00:00"
+  },
+  {
+    "document_id": "DOC-00360",
+    "title": "Financial Document 361",
+    "category": "compliance",
+    "text": "Quarterly treasury report for EUR exposure showing 250.5 million in net position.",
+    "created_at": "2024-12-26T00:00:00"
+  },
+  {
+    "document_id": "DOC-00361",
+    "title": "Financial Document 362",
+    "category": "treasury",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0003 during Q2 2024.",
+    "created_at": "2024-12-27T00:00:00"
+  },
+  {
+    "document_id": "DOC-00362",
+    "title": "Financial Document 363",
+    "category": "risk",
+    "text": "Risk assessment memo: FX hedging strategy review for USD portfolio segment 7.",
+    "created_at": "2024-12-28T00:00:00"
+  },
+  {
+    "document_id": "DOC-00363",
+    "title": "Financial Document 364",
+    "category": "audit",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 2.",
+    "created_at": "2024-12-29T00:00:00"
+  },
+  {
+    "document_id": "DOC-00364",
+    "title": "Financial Document 365",
+    "category": "regulatory",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q1 2024.",
+    "created_at": "2024-12-30T00:00:00"
+  },
+  {
+    "document_id": "DOC-00365",
+    "title": "Financial Document 366",
+    "category": "compliance",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-016 rated A.",
+    "created_at": "2024-12-31T00:00:00"
+  },
+  {
+    "document_id": "DOC-00366",
+    "title": "Financial Document 367",
+    "category": "treasury",
+    "text": "Multi-currency reconciliation report: variance of 3.73% identified in USD ledger.",
+    "created_at": "2025-01-01T00:00:00"
+  },
+  {
+    "document_id": "DOC-00367",
+    "title": "Financial Document 368",
+    "category": "risk",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-9690.",
+    "created_at": "2025-01-02T00:00:00"
+  },
+  {
+    "document_id": "DOC-00368",
+    "title": "Financial Document 369",
+    "category": "audit",
+    "text": "Quarterly treasury report for EUR exposure showing 177.8 million in net position.",
+    "created_at": "2025-01-03T00:00:00"
+  },
+  {
+    "document_id": "DOC-00369",
+    "title": "Financial Document 370",
+    "category": "regulatory",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0043 during Q1 2024.",
+    "created_at": "2025-01-04T00:00:00"
+  },
+  {
+    "document_id": "DOC-00370",
+    "title": "Financial Document 371",
+    "category": "compliance",
+    "text": "Risk assessment memo: FX hedging strategy review for EUR portfolio segment 6.",
+    "created_at": "2025-01-05T00:00:00"
+  },
+  {
+    "document_id": "DOC-00371",
+    "title": "Financial Document 372",
+    "category": "treasury",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 3.",
+    "created_at": "2025-01-06T00:00:00"
+  },
+  {
+    "document_id": "DOC-00372",
+    "title": "Financial Document 373",
+    "category": "risk",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q1 2024.",
+    "created_at": "2025-01-07T00:00:00"
+  },
+  {
+    "document_id": "DOC-00373",
+    "title": "Financial Document 374",
+    "category": "audit",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-019 rated BBB.",
+    "created_at": "2025-01-08T00:00:00"
+  },
+  {
+    "document_id": "DOC-00374",
+    "title": "Financial Document 375",
+    "category": "regulatory",
+    "text": "Multi-currency reconciliation report: variance of 4.04% identified in CHF ledger.",
+    "created_at": "2025-01-09T00:00:00"
+  },
+  {
+    "document_id": "DOC-00375",
+    "title": "Financial Document 376",
+    "category": "compliance",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-7476.",
+    "created_at": "2025-01-10T00:00:00"
+  },
+  {
+    "document_id": "DOC-00376",
+    "title": "Financial Document 377",
+    "category": "treasury",
+    "text": "Quarterly treasury report for CHF exposure showing 494.6 million in net position.",
+    "created_at": "2025-01-11T00:00:00"
+  },
+  {
+    "document_id": "DOC-00377",
+    "title": "Financial Document 378",
+    "category": "risk",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0031 during Q3 2024.",
+    "created_at": "2025-01-12T00:00:00"
+  },
+  {
+    "document_id": "DOC-00378",
+    "title": "Financial Document 379",
+    "category": "audit",
+    "text": "Risk assessment memo: FX hedging strategy review for CHF portfolio segment 4.",
+    "created_at": "2025-01-13T00:00:00"
+  },
+  {
+    "document_id": "DOC-00379",
+    "title": "Financial Document 380",
+    "category": "regulatory",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 4.",
+    "created_at": "2025-01-14T00:00:00"
+  },
+  {
+    "document_id": "DOC-00380",
+    "title": "Financial Document 381",
+    "category": "compliance",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2025-01-15T00:00:00"
+  },
+  {
+    "document_id": "DOC-00381",
+    "title": "Financial Document 382",
+    "category": "treasury",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-002 rated BBB.",
+    "created_at": "2025-01-16T00:00:00"
+  },
+  {
+    "document_id": "DOC-00382",
+    "title": "Financial Document 383",
+    "category": "risk",
+    "text": "Multi-currency reconciliation report: variance of 1.39% identified in USD ledger.",
+    "created_at": "2025-01-17T00:00:00"
+  },
+  {
+    "document_id": "DOC-00383",
+    "title": "Financial Document 384",
+    "category": "audit",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-8957.",
+    "created_at": "2025-01-18T00:00:00"
+  },
+  {
+    "document_id": "DOC-00384",
+    "title": "Financial Document 385",
+    "category": "regulatory",
+    "text": "Quarterly treasury report for EUR exposure showing 331.3 million in net position.",
+    "created_at": "2025-01-19T00:00:00"
+  },
+  {
+    "document_id": "DOC-00385",
+    "title": "Financial Document 386",
+    "category": "compliance",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0008 during Q1 2024.",
+    "created_at": "2025-01-20T00:00:00"
+  },
+  {
+    "document_id": "DOC-00386",
+    "title": "Financial Document 387",
+    "category": "treasury",
+    "text": "Risk assessment memo: FX hedging strategy review for CHF portfolio segment 6.",
+    "created_at": "2025-01-21T00:00:00"
+  },
+  {
+    "document_id": "DOC-00387",
+    "title": "Financial Document 388",
+    "category": "risk",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 1.",
+    "created_at": "2025-01-22T00:00:00"
+  },
+  {
+    "document_id": "DOC-00388",
+    "title": "Financial Document 389",
+    "category": "audit",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q3 2024.",
+    "created_at": "2025-01-23T00:00:00"
+  },
+  {
+    "document_id": "DOC-00389",
+    "title": "Financial Document 390",
+    "category": "regulatory",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-016 rated BB.",
+    "created_at": "2025-01-24T00:00:00"
+  },
+  {
+    "document_id": "DOC-00390",
+    "title": "Financial Document 391",
+    "category": "compliance",
+    "text": "Multi-currency reconciliation report: variance of 2.95% identified in EUR ledger.",
+    "created_at": "2025-01-25T00:00:00"
+  },
+  {
+    "document_id": "DOC-00391",
+    "title": "Financial Document 392",
+    "category": "treasury",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-8876.",
+    "created_at": "2025-01-26T00:00:00"
+  },
+  {
+    "document_id": "DOC-00392",
+    "title": "Financial Document 393",
+    "category": "risk",
+    "text": "Quarterly treasury report for GBP exposure showing 235.2 million in net position.",
+    "created_at": "2025-01-27T00:00:00"
+  },
+  {
+    "document_id": "DOC-00393",
+    "title": "Financial Document 394",
+    "category": "audit",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0027 during Q3 2024.",
+    "created_at": "2025-01-28T00:00:00"
+  },
+  {
+    "document_id": "DOC-00394",
+    "title": "Financial Document 395",
+    "category": "regulatory",
+    "text": "Risk assessment memo: FX hedging strategy review for USD portfolio segment 6.",
+    "created_at": "2025-01-29T00:00:00"
+  },
+  {
+    "document_id": "DOC-00395",
+    "title": "Financial Document 396",
+    "category": "compliance",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 2.",
+    "created_at": "2025-01-30T00:00:00"
+  },
+  {
+    "document_id": "DOC-00396",
+    "title": "Financial Document 397",
+    "category": "treasury",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2025-01-31T00:00:00"
+  },
+  {
+    "document_id": "DOC-00397",
+    "title": "Financial Document 398",
+    "category": "risk",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-011 rated BBB.",
+    "created_at": "2025-02-01T00:00:00"
+  },
+  {
+    "document_id": "DOC-00398",
+    "title": "Financial Document 399",
+    "category": "audit",
+    "text": "Multi-currency reconciliation report: variance of 1.14% identified in CHF ledger.",
+    "created_at": "2025-02-02T00:00:00"
+  },
+  {
+    "document_id": "DOC-00399",
+    "title": "Financial Document 400",
+    "category": "regulatory",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-2257.",
+    "created_at": "2025-02-03T00:00:00"
+  },
+  {
+    "document_id": "DOC-00400",
+    "title": "Financial Document 401",
+    "category": "compliance",
+    "text": "Quarterly treasury report for USD exposure showing 311.7 million in net position.",
+    "created_at": "2025-02-04T00:00:00"
+  },
+  {
+    "document_id": "DOC-00401",
+    "title": "Financial Document 402",
+    "category": "treasury",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0019 during Q2 2024.",
+    "created_at": "2025-02-05T00:00:00"
+  },
+  {
+    "document_id": "DOC-00402",
+    "title": "Financial Document 403",
+    "category": "risk",
+    "text": "Risk assessment memo: FX hedging strategy review for EUR portfolio segment 4.",
+    "created_at": "2025-02-06T00:00:00"
+  },
+  {
+    "document_id": "DOC-00403",
+    "title": "Financial Document 404",
+    "category": "audit",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 4.",
+    "created_at": "2025-02-07T00:00:00"
+  },
+  {
+    "document_id": "DOC-00404",
+    "title": "Financial Document 405",
+    "category": "regulatory",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2025-02-08T00:00:00"
+  },
+  {
+    "document_id": "DOC-00405",
+    "title": "Financial Document 406",
+    "category": "compliance",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-002 rated AAA.",
+    "created_at": "2025-02-09T00:00:00"
+  },
+  {
+    "document_id": "DOC-00406",
+    "title": "Financial Document 407",
+    "category": "treasury",
+    "text": "Multi-currency reconciliation report: variance of 4.71% identified in EUR ledger.",
+    "created_at": "2025-02-10T00:00:00"
+  },
+  {
+    "document_id": "DOC-00407",
+    "title": "Financial Document 408",
+    "category": "risk",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-1186.",
+    "created_at": "2025-02-11T00:00:00"
+  },
+  {
+    "document_id": "DOC-00408",
+    "title": "Financial Document 409",
+    "category": "audit",
+    "text": "Quarterly treasury report for USD exposure showing 257.4 million in net position.",
+    "created_at": "2025-02-12T00:00:00"
+  },
+  {
+    "document_id": "DOC-00409",
+    "title": "Financial Document 410",
+    "category": "regulatory",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0008 during Q1 2024.",
+    "created_at": "2025-02-13T00:00:00"
+  },
+  {
+    "document_id": "DOC-00410",
+    "title": "Financial Document 411",
+    "category": "compliance",
+    "text": "Risk assessment memo: FX hedging strategy review for EUR portfolio segment 6.",
+    "created_at": "2025-02-14T00:00:00"
+  },
+  {
+    "document_id": "DOC-00411",
+    "title": "Financial Document 412",
+    "category": "treasury",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 2.",
+    "created_at": "2025-02-15T00:00:00"
+  },
+  {
+    "document_id": "DOC-00412",
+    "title": "Financial Document 413",
+    "category": "risk",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q1 2024.",
+    "created_at": "2025-02-16T00:00:00"
+  },
+  {
+    "document_id": "DOC-00413",
+    "title": "Financial Document 414",
+    "category": "audit",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-015 rated A.",
+    "created_at": "2025-02-17T00:00:00"
+  },
+  {
+    "document_id": "DOC-00414",
+    "title": "Financial Document 415",
+    "category": "regulatory",
+    "text": "Multi-currency reconciliation report: variance of 3.87% identified in USD ledger.",
+    "created_at": "2025-02-18T00:00:00"
+  },
+  {
+    "document_id": "DOC-00415",
+    "title": "Financial Document 416",
+    "category": "compliance",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-3761.",
+    "created_at": "2025-02-19T00:00:00"
+  },
+  {
+    "document_id": "DOC-00416",
+    "title": "Financial Document 417",
+    "category": "treasury",
+    "text": "Quarterly treasury report for JPY exposure showing 251.1 million in net position.",
+    "created_at": "2025-02-20T00:00:00"
+  },
+  {
+    "document_id": "DOC-00417",
+    "title": "Financial Document 418",
+    "category": "risk",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0012 during Q1 2024.",
+    "created_at": "2025-02-21T00:00:00"
+  },
+  {
+    "document_id": "DOC-00418",
+    "title": "Financial Document 419",
+    "category": "audit",
+    "text": "Risk assessment memo: FX hedging strategy review for GBP portfolio segment 1.",
+    "created_at": "2025-02-22T00:00:00"
+  },
+  {
+    "document_id": "DOC-00419",
+    "title": "Financial Document 420",
+    "category": "regulatory",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 3.",
+    "created_at": "2025-02-23T00:00:00"
+  },
+  {
+    "document_id": "DOC-00420",
+    "title": "Financial Document 421",
+    "category": "compliance",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2025-02-24T00:00:00"
+  },
+  {
+    "document_id": "DOC-00421",
+    "title": "Financial Document 422",
+    "category": "treasury",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-014 rated A.",
+    "created_at": "2025-02-25T00:00:00"
+  },
+  {
+    "document_id": "DOC-00422",
+    "title": "Financial Document 423",
+    "category": "risk",
+    "text": "Multi-currency reconciliation report: variance of 4.65% identified in GBP ledger.",
+    "created_at": "2025-02-26T00:00:00"
+  },
+  {
+    "document_id": "DOC-00423",
+    "title": "Financial Document 424",
+    "category": "audit",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-2096.",
+    "created_at": "2025-02-27T00:00:00"
+  },
+  {
+    "document_id": "DOC-00424",
+    "title": "Financial Document 425",
+    "category": "regulatory",
+    "text": "Quarterly treasury report for EUR exposure showing 324.1 million in net position.",
+    "created_at": "2025-02-28T00:00:00"
+  },
+  {
+    "document_id": "DOC-00425",
+    "title": "Financial Document 426",
+    "category": "compliance",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0044 during Q2 2024.",
+    "created_at": "2025-03-01T00:00:00"
+  },
+  {
+    "document_id": "DOC-00426",
+    "title": "Financial Document 427",
+    "category": "treasury",
+    "text": "Risk assessment memo: FX hedging strategy review for USD portfolio segment 3.",
+    "created_at": "2025-03-02T00:00:00"
+  },
+  {
+    "document_id": "DOC-00427",
+    "title": "Financial Document 428",
+    "category": "risk",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 3.",
+    "created_at": "2025-03-03T00:00:00"
+  },
+  {
+    "document_id": "DOC-00428",
+    "title": "Financial Document 429",
+    "category": "audit",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q3 2024.",
+    "created_at": "2025-03-04T00:00:00"
+  },
+  {
+    "document_id": "DOC-00429",
+    "title": "Financial Document 430",
+    "category": "regulatory",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-005 rated A.",
+    "created_at": "2025-03-05T00:00:00"
+  },
+  {
+    "document_id": "DOC-00430",
+    "title": "Financial Document 431",
+    "category": "compliance",
+    "text": "Multi-currency reconciliation report: variance of 1.19% identified in CHF ledger.",
+    "created_at": "2025-03-06T00:00:00"
+  },
+  {
+    "document_id": "DOC-00431",
+    "title": "Financial Document 432",
+    "category": "treasury",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-7686.",
+    "created_at": "2025-03-07T00:00:00"
+  },
+  {
+    "document_id": "DOC-00432",
+    "title": "Financial Document 433",
+    "category": "risk",
+    "text": "Quarterly treasury report for JPY exposure showing 14.6 million in net position.",
+    "created_at": "2025-03-08T00:00:00"
+  },
+  {
+    "document_id": "DOC-00433",
+    "title": "Financial Document 434",
+    "category": "audit",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0017 during Q2 2024.",
+    "created_at": "2025-03-09T00:00:00"
+  },
+  {
+    "document_id": "DOC-00434",
+    "title": "Financial Document 435",
+    "category": "regulatory",
+    "text": "Risk assessment memo: FX hedging strategy review for USD portfolio segment 3.",
+    "created_at": "2025-03-10T00:00:00"
+  },
+  {
+    "document_id": "DOC-00435",
+    "title": "Financial Document 436",
+    "category": "compliance",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 3.",
+    "created_at": "2025-03-11T00:00:00"
+  },
+  {
+    "document_id": "DOC-00436",
+    "title": "Financial Document 437",
+    "category": "treasury",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2025-03-12T00:00:00"
+  },
+  {
+    "document_id": "DOC-00437",
+    "title": "Financial Document 438",
+    "category": "risk",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-015 rated BBB.",
+    "created_at": "2025-03-13T00:00:00"
+  },
+  {
+    "document_id": "DOC-00438",
+    "title": "Financial Document 439",
+    "category": "audit",
+    "text": "Multi-currency reconciliation report: variance of 4.82% identified in GBP ledger.",
+    "created_at": "2025-03-14T00:00:00"
+  },
+  {
+    "document_id": "DOC-00439",
+    "title": "Financial Document 440",
+    "category": "regulatory",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-5524.",
+    "created_at": "2025-03-15T00:00:00"
+  },
+  {
+    "document_id": "DOC-00440",
+    "title": "Financial Document 441",
+    "category": "compliance",
+    "text": "Quarterly treasury report for EUR exposure showing 84.9 million in net position.",
+    "created_at": "2025-03-16T00:00:00"
+  },
+  {
+    "document_id": "DOC-00441",
+    "title": "Financial Document 442",
+    "category": "treasury",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0042 during Q1 2024.",
+    "created_at": "2025-03-17T00:00:00"
+  },
+  {
+    "document_id": "DOC-00442",
+    "title": "Financial Document 443",
+    "category": "risk",
+    "text": "Risk assessment memo: FX hedging strategy review for JPY portfolio segment 5.",
+    "created_at": "2025-03-18T00:00:00"
+  },
+  {
+    "document_id": "DOC-00443",
+    "title": "Financial Document 444",
+    "category": "audit",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 1.",
+    "created_at": "2025-03-19T00:00:00"
+  },
+  {
+    "document_id": "DOC-00444",
+    "title": "Financial Document 445",
+    "category": "regulatory",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q1 2024.",
+    "created_at": "2025-03-20T00:00:00"
+  },
+  {
+    "document_id": "DOC-00445",
+    "title": "Financial Document 446",
+    "category": "compliance",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-014 rated AAA.",
+    "created_at": "2025-03-21T00:00:00"
+  },
+  {
+    "document_id": "DOC-00446",
+    "title": "Financial Document 447",
+    "category": "treasury",
+    "text": "Multi-currency reconciliation report: variance of 2.87% identified in EUR ledger.",
+    "created_at": "2025-03-22T00:00:00"
+  },
+  {
+    "document_id": "DOC-00447",
+    "title": "Financial Document 448",
+    "category": "risk",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-8905.",
+    "created_at": "2025-03-23T00:00:00"
+  },
+  {
+    "document_id": "DOC-00448",
+    "title": "Financial Document 449",
+    "category": "audit",
+    "text": "Quarterly treasury report for EUR exposure showing 117.7 million in net position.",
+    "created_at": "2025-03-24T00:00:00"
+  },
+  {
+    "document_id": "DOC-00449",
+    "title": "Financial Document 450",
+    "category": "regulatory",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0042 during Q2 2024.",
+    "created_at": "2025-03-25T00:00:00"
+  },
+  {
+    "document_id": "DOC-00450",
+    "title": "Financial Document 451",
+    "category": "compliance",
+    "text": "Risk assessment memo: FX hedging strategy review for GBP portfolio segment 4.",
+    "created_at": "2025-03-26T00:00:00"
+  },
+  {
+    "document_id": "DOC-00451",
+    "title": "Financial Document 452",
+    "category": "treasury",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 4.",
+    "created_at": "2025-03-27T00:00:00"
+  },
+  {
+    "document_id": "DOC-00452",
+    "title": "Financial Document 453",
+    "category": "risk",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2025-03-28T00:00:00"
+  },
+  {
+    "document_id": "DOC-00453",
+    "title": "Financial Document 454",
+    "category": "audit",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-010 rated BB.",
+    "created_at": "2025-03-29T00:00:00"
+  },
+  {
+    "document_id": "DOC-00454",
+    "title": "Financial Document 455",
+    "category": "regulatory",
+    "text": "Multi-currency reconciliation report: variance of 0.38% identified in JPY ledger.",
+    "created_at": "2025-03-30T00:00:00"
+  },
+  {
+    "document_id": "DOC-00455",
+    "title": "Financial Document 456",
+    "category": "compliance",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-7382.",
+    "created_at": "2025-03-31T00:00:00"
+  },
+  {
+    "document_id": "DOC-00456",
+    "title": "Financial Document 457",
+    "category": "treasury",
+    "text": "Quarterly treasury report for USD exposure showing 71.4 million in net position.",
+    "created_at": "2025-04-01T00:00:00"
+  },
+  {
+    "document_id": "DOC-00457",
+    "title": "Financial Document 458",
+    "category": "risk",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0013 during Q2 2024.",
+    "created_at": "2025-04-02T00:00:00"
+  },
+  {
+    "document_id": "DOC-00458",
+    "title": "Financial Document 459",
+    "category": "audit",
+    "text": "Risk assessment memo: FX hedging strategy review for GBP portfolio segment 4.",
+    "created_at": "2025-04-03T00:00:00"
+  },
+  {
+    "document_id": "DOC-00459",
+    "title": "Financial Document 460",
+    "category": "regulatory",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 1.",
+    "created_at": "2025-04-04T00:00:00"
+  },
+  {
+    "document_id": "DOC-00460",
+    "title": "Financial Document 461",
+    "category": "compliance",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q3 2024.",
+    "created_at": "2025-04-05T00:00:00"
+  },
+  {
+    "document_id": "DOC-00461",
+    "title": "Financial Document 462",
+    "category": "treasury",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-010 rated A.",
+    "created_at": "2025-04-06T00:00:00"
+  },
+  {
+    "document_id": "DOC-00462",
+    "title": "Financial Document 463",
+    "category": "risk",
+    "text": "Multi-currency reconciliation report: variance of 4.72% identified in USD ledger.",
+    "created_at": "2025-04-07T00:00:00"
+  },
+  {
+    "document_id": "DOC-00463",
+    "title": "Financial Document 464",
+    "category": "audit",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-6593.",
+    "created_at": "2025-04-08T00:00:00"
+  },
+  {
+    "document_id": "DOC-00464",
+    "title": "Financial Document 465",
+    "category": "regulatory",
+    "text": "Quarterly treasury report for USD exposure showing 464.5 million in net position.",
+    "created_at": "2025-04-09T00:00:00"
+  },
+  {
+    "document_id": "DOC-00465",
+    "title": "Financial Document 466",
+    "category": "compliance",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0036 during Q2 2024.",
+    "created_at": "2025-04-10T00:00:00"
+  },
+  {
+    "document_id": "DOC-00466",
+    "title": "Financial Document 467",
+    "category": "treasury",
+    "text": "Risk assessment memo: FX hedging strategy review for CHF portfolio segment 2.",
+    "created_at": "2025-04-11T00:00:00"
+  },
+  {
+    "document_id": "DOC-00467",
+    "title": "Financial Document 468",
+    "category": "risk",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 4.",
+    "created_at": "2025-04-12T00:00:00"
+  },
+  {
+    "document_id": "DOC-00468",
+    "title": "Financial Document 469",
+    "category": "audit",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q1 2024.",
+    "created_at": "2025-04-13T00:00:00"
+  },
+  {
+    "document_id": "DOC-00469",
+    "title": "Financial Document 470",
+    "category": "regulatory",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-012 rated AAA.",
+    "created_at": "2025-04-14T00:00:00"
+  },
+  {
+    "document_id": "DOC-00470",
+    "title": "Financial Document 471",
+    "category": "compliance",
+    "text": "Multi-currency reconciliation report: variance of 0.1% identified in JPY ledger.",
+    "created_at": "2025-04-15T00:00:00"
+  },
+  {
+    "document_id": "DOC-00471",
+    "title": "Financial Document 472",
+    "category": "treasury",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-1325.",
+    "created_at": "2025-04-16T00:00:00"
+  },
+  {
+    "document_id": "DOC-00472",
+    "title": "Financial Document 473",
+    "category": "risk",
+    "text": "Quarterly treasury report for USD exposure showing 192.6 million in net position.",
+    "created_at": "2025-04-17T00:00:00"
+  },
+  {
+    "document_id": "DOC-00473",
+    "title": "Financial Document 474",
+    "category": "audit",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0026 during Q3 2024.",
+    "created_at": "2025-04-18T00:00:00"
+  },
+  {
+    "document_id": "DOC-00474",
+    "title": "Financial Document 475",
+    "category": "regulatory",
+    "text": "Risk assessment memo: FX hedging strategy review for USD portfolio segment 8.",
+    "created_at": "2025-04-19T00:00:00"
+  },
+  {
+    "document_id": "DOC-00475",
+    "title": "Financial Document 476",
+    "category": "compliance",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 4.",
+    "created_at": "2025-04-20T00:00:00"
+  },
+  {
+    "document_id": "DOC-00476",
+    "title": "Financial Document 477",
+    "category": "treasury",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2025-04-21T00:00:00"
+  },
+  {
+    "document_id": "DOC-00477",
+    "title": "Financial Document 478",
+    "category": "risk",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-016 rated A.",
+    "created_at": "2025-04-22T00:00:00"
+  },
+  {
+    "document_id": "DOC-00478",
+    "title": "Financial Document 479",
+    "category": "audit",
+    "text": "Multi-currency reconciliation report: variance of 1.61% identified in GBP ledger.",
+    "created_at": "2025-04-23T00:00:00"
+  },
+  {
+    "document_id": "DOC-00479",
+    "title": "Financial Document 480",
+    "category": "regulatory",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-8833.",
+    "created_at": "2025-04-24T00:00:00"
+  },
+  {
+    "document_id": "DOC-00480",
+    "title": "Financial Document 481",
+    "category": "compliance",
+    "text": "Quarterly treasury report for JPY exposure showing 180.0 million in net position.",
+    "created_at": "2025-04-25T00:00:00"
+  },
+  {
+    "document_id": "DOC-00481",
+    "title": "Financial Document 482",
+    "category": "treasury",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0004 during Q3 2024.",
+    "created_at": "2025-04-26T00:00:00"
+  },
+  {
+    "document_id": "DOC-00482",
+    "title": "Financial Document 483",
+    "category": "risk",
+    "text": "Risk assessment memo: FX hedging strategy review for CHF portfolio segment 9.",
+    "created_at": "2025-04-27T00:00:00"
+  },
+  {
+    "document_id": "DOC-00483",
+    "title": "Financial Document 484",
+    "category": "audit",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 1.",
+    "created_at": "2025-04-28T00:00:00"
+  },
+  {
+    "document_id": "DOC-00484",
+    "title": "Financial Document 485",
+    "category": "regulatory",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q3 2024.",
+    "created_at": "2025-04-29T00:00:00"
+  },
+  {
+    "document_id": "DOC-00485",
+    "title": "Financial Document 486",
+    "category": "compliance",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-002 rated BBB.",
+    "created_at": "2025-04-30T00:00:00"
+  },
+  {
+    "document_id": "DOC-00486",
+    "title": "Financial Document 487",
+    "category": "treasury",
+    "text": "Multi-currency reconciliation report: variance of 1.35% identified in EUR ledger.",
+    "created_at": "2025-05-01T00:00:00"
+  },
+  {
+    "document_id": "DOC-00487",
+    "title": "Financial Document 488",
+    "category": "risk",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-8354.",
+    "created_at": "2025-05-02T00:00:00"
+  },
+  {
+    "document_id": "DOC-00488",
+    "title": "Financial Document 489",
+    "category": "audit",
+    "text": "Quarterly treasury report for JPY exposure showing 307.6 million in net position.",
+    "created_at": "2025-05-03T00:00:00"
+  },
+  {
+    "document_id": "DOC-00489",
+    "title": "Financial Document 490",
+    "category": "regulatory",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0007 during Q1 2024.",
+    "created_at": "2025-05-04T00:00:00"
+  },
+  {
+    "document_id": "DOC-00490",
+    "title": "Financial Document 491",
+    "category": "compliance",
+    "text": "Risk assessment memo: FX hedging strategy review for GBP portfolio segment 5.",
+    "created_at": "2025-05-05T00:00:00"
+  },
+  {
+    "document_id": "DOC-00491",
+    "title": "Financial Document 492",
+    "category": "treasury",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 3.",
+    "created_at": "2025-05-06T00:00:00"
+  },
+  {
+    "document_id": "DOC-00492",
+    "title": "Financial Document 493",
+    "category": "risk",
+    "text": "Regulatory filing: Basel III capital adequacy ratio analysis for Q2 2024.",
+    "created_at": "2025-05-07T00:00:00"
+  },
+  {
+    "document_id": "DOC-00493",
+    "title": "Financial Document 494",
+    "category": "audit",
+    "text": "Counterparty credit review: exposure limit breach warning for entity CP-012 rated AA.",
+    "created_at": "2025-05-08T00:00:00"
+  },
+  {
+    "document_id": "DOC-00494",
+    "title": "Financial Document 495",
+    "category": "regulatory",
+    "text": "Multi-currency reconciliation report: variance of 1.49% identified in JPY ledger.",
+    "created_at": "2025-05-09T00:00:00"
+  },
+  {
+    "document_id": "DOC-00495",
+    "title": "Financial Document 496",
+    "category": "compliance",
+    "text": "Anti-money laundering alert: suspicious activity report filed for transaction series TXN-3670.",
+    "created_at": "2025-05-10T00:00:00"
+  },
+  {
+    "document_id": "DOC-00496",
+    "title": "Financial Document 497",
+    "category": "treasury",
+    "text": "Quarterly treasury report for CHF exposure showing 476.3 million in net position.",
+    "created_at": "2025-05-11T00:00:00"
+  },
+  {
+    "document_id": "DOC-00497",
+    "title": "Financial Document 498",
+    "category": "risk",
+    "text": "Compliance audit finding: unusual transaction pattern detected in account ACC-0014 during Q1 2024.",
+    "created_at": "2025-05-12T00:00:00"
+  },
+  {
+    "document_id": "DOC-00498",
+    "title": "Financial Document 499",
+    "category": "audit",
+    "text": "Risk assessment memo: FX hedging strategy review for CHF portfolio segment 8.",
+    "created_at": "2025-05-13T00:00:00"
+  },
+  {
+    "document_id": "DOC-00499",
+    "title": "Financial Document 500",
+    "category": "regulatory",
+    "text": "Internal control evaluation: segregation of duties verification for treasury operations unit 3.",
+    "created_at": "2025-05-14T00:00:00"
+  }
+]

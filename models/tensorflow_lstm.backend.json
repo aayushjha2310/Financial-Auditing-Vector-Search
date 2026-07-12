@@ -1,0 +1,4 @@
+{
+  "backend": "keras_torch",
+  "model_type": "lstm"
+}
