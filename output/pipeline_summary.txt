@@ -1,0 +1,28 @@
+Sovereign Financial Auditing Engine — Pipeline Output
+Generated: 2026-07-12 16:11:53
+
+AUDIT REPORT
+  Status: NORMAL
+  Entities Audited: 4940
+  High Risk: 0 (0.0%)
+  Average Risk Score: 0.0825
+
+PYTORCH MODELS
+  CNN: val_loss=0.07239863770973898, val_accuracy=0.9619619619619619
+  LSTM: val_loss=0.026853630330503708, val_accuracy=0.9858299595141701
+  TRANSFORMER: val_loss=0.05174900881285148, val_accuracy=0.9817813765182186
+
+OPTIMIZER COMPARISON
+  ADAM: final_loss=0.05462598545296538
+  SGD: final_loss=0.31070112893658297
+  RMSPROP: final_loss=0.029834541950314757
+
+TENSORFLOW/KERAS MODELS
+  DENSE: accuracy=0.9767206311225891, backend=keras_torch
+  LSTM: accuracy=0.9827935099601746, backend=keras_torch
+  TRANSFORMER: accuracy=0.9767206311225891, backend=keras_torch
+
+VECTOR SEARCH INDICES
+  FAISS: 500 vectors
+  Milvus: 500 vectors
+  Pinecone: 500 vectors

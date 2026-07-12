@@ -1,0 +1,65 @@
+{
+  "generated_at": "2026-07-12T16:12:00.612120",
+  "elapsed_seconds": null,
+  "output_dir": "C:\\Users\\2000149350\\Documents\\Project-5\\output",
+  "reports": [
+    "reports/pipeline_summary.json",
+    "reports/audit_report.json",
+    "pipeline_summary.txt"
+  ],
+  "charts": [
+    "charts\\pytorch_training_curves.png",
+    "charts\\optimizer_comparison.png",
+    "charts\\risk_dashboard.png",
+    "charts\\keras_accuracy.png",
+    "charts\\vector_index_bar_chart.png"
+  ],
+  "data_samples": [
+    "data_samples/documents.json",
+    "data_samples/ledger_history.csv"
+  ],
+  "models": [
+    "pytorch_cnn.pt",
+    "pytorch_lstm.pt",
+    "pytorch_transformer.pt",
+    "tensorflow_dense.keras",
+    "tensorflow_lstm.keras",
+    "tensorflow_transformer.keras"
+  ],
+  "logs": [
+    "pytorch\\events.out.tfevents.1783846756.LTCH-5CD5161LBG.18988.3",
+    "pytorch\\events.out.tfevents.1783846765.LTCH-5CD5161LBG.18988.4",
+    "pytorch\\events.out.tfevents.1783846773.LTCH-5CD5161LBG.18988.5",
+    "pytorch\\events.out.tfevents.1783846780.LTCH-5CD5161LBG.18988.6",
+    "pytorch\\events.out.tfevents.1783846788.LTCH-5CD5161LBG.18988.7",
+    "pytorch\\events.out.tfevents.1783846796.LTCH-5CD5161LBG.18988.8",
+    "pytorch\\events.out.tfevents.1783846805.LTCH-5CD5161LBG.18988.9",
+    "pytorch\\events.out.tfevents.1783846817.LTCH-5CD5161LBG.18988.10",
+    "pytorch\\events.out.tfevents.1783846830.LTCH-5CD5161LBG.18988.11",
+    "pytorch\\cnn\\events.out.tfevents.1783845859.LTCH-5CD5161LBG.18988.0",
+    "pytorch\\cnn\\events.out.tfevents.1783852873.LTCH-5CD5161LBG.34640.0",
+    "pytorch\\lstm\\events.out.tfevents.1783845957.LTCH-5CD5161LBG.18988.1",
+    "pytorch\\lstm\\events.out.tfevents.1783852900.LTCH-5CD5161LBG.34640.1",
+    "pytorch\\transformer\\events.out.tfevents.1783846427.LTCH-5CD5161LBG.18988.2",
+    "tensorflow\\dense\\events.out.tfevents.1783848442.LTCH-5CD5161LBG.13664.0",
+    "tensorflow\\dense\\events.out.tfevents.1783848520.LTCH-5CD5161LBG.24236.0",
+    "tensorflow\\dense\\events.out.tfevents.1783848577.LTCH-5CD5161LBG.33640.0",
+    "tensorflow\\dense\\events.out.tfevents.1783848617.LTCH-5CD5161LBG.13204.0",
+    "tensorflow\\dense\\events.out.tfevents.1783848653.LTCH-5CD5161LBG.40748.0",
+    "tensorflow\\dense\\events.out.tfevents.1783848699.LTCH-5CD5161LBG.15196.0",
+    "tensorflow\\dense\\events.out.tfevents.1783848764.LTCH-5CD5161LBG.21716.0",
+    "tensorflow\\lstm\\events.out.tfevents.1783848787.LTCH-5CD5161LBG.21716.1",
+    "tensorflow\\transformer\\events.out.tfevents.1783849114.LTCH-5CD5161LBG.21716.2"
+  ],
+  "vector_indices": [
+    "build_summary.json",
+    "faiss\\faiss_ivfpq.index",
+    "faiss\\metadata.json",
+    "milvus_lite.db\\LOCK",
+    "milvus_lite.db\\collections\\financial_documents\\manifest.json",
+    "milvus_lite.db\\collections\\financial_documents\\schema.json",
+    "milvus_lite.db\\collections\\financial_documents\\partitions\\_default\\data\\data_000001_000500.parquet",
+    "milvus_lite.db\\collections\\financial_documents\\wal\\wal_data_000001.arrow"
+  ],
+  "audit_status": "NORMAL"
+}

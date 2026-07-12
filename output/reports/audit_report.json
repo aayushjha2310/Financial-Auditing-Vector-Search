@@ -1,0 +1,67 @@
+{
+  "status": "NORMAL",
+  "total_entities_audited": 4940,
+  "high_risk_entities": 0,
+  "high_risk_percentage": 0.0,
+  "average_risk_score": 0.0825,
+  "max_volatility": 155103.9324,
+  "currency_exposure": {
+    "CHF": 2754475975.72,
+    "EUR": 2806153562.42,
+    "GBP": 3022552753.19,
+    "JPY": 18131116.53,
+    "USD": 2395994492.33
+  },
+  "top_risks": [
+    {
+      "entity": "ACC-0005_JPY",
+      "score": 0.1222,
+      "recommendation": "LOW RISK: Standard monitoring sufficient"
+    },
+    {
+      "entity": "ACC-0033_CHF",
+      "score": 0.1166,
+      "recommendation": "LOW RISK: Standard monitoring sufficient"
+    },
+    {
+      "entity": "ACC-0002_USD",
+      "score": 0.1077,
+      "recommendation": "LOW RISK: Standard monitoring sufficient"
+    },
+    {
+      "entity": "ACC-0003_USD",
+      "score": 0.0972,
+      "recommendation": "LOW RISK: Standard monitoring sufficient"
+    },
+    {
+      "entity": "ACC-0011_USD",
+      "score": 0.0919,
+      "recommendation": "LOW RISK: Standard monitoring sufficient"
+    },
+    {
+      "entity": "ACC-0020_CHF",
+      "score": 0.0861,
+      "recommendation": "LOW RISK: Standard monitoring sufficient"
+    },
+    {
+      "entity": "ACC-0030_CHF",
+      "score": 0.0824,
+      "recommendation": "LOW RISK: Standard monitoring sufficient"
+    },
+    {
+      "entity": "ACC-0045_CHF",
+      "score": 0.0809,
+      "recommendation": "LOW RISK: Standard monitoring sufficient"
+    },
+    {
+      "entity": "ACC-0037_JPY",
+      "score": 0.0795,
+      "recommendation": "LOW RISK: Standard monitoring sufficient"
+    },
+    {
+      "entity": "ACC-0022_EUR",
+      "score": 0.0753,
+      "recommendation": "LOW RISK: Standard monitoring sufficient"
+    }
+  ]
+}
